@@ -1,0 +1,3252 @@
+USA
+Gymnastics
+JUNIOR 2025-2028
+Version:May2024
+COMPETITION
+MANUAL
+MEN'S
+DEVELOPMENT PROGRAM
+
+USA TM
+Gymnastics
+Copyrightby
+USAGymnastics Publications
+All rights reserved. Use
+ofthis publication is
+expresslysubject to the USA
+GymnasticsTermsof Usea
+copyofwhichappearson
+the USAGymnastics website
+(usagym.org/term).
+No partofthis publication
+maybereproduced,
+translated,ortransmitted in
+anyform orbyanymeans
+withoutwrittenpermission
+from USAGymnastics.
+All requestsforpermission
+should be madeto:
+USAGymnastics
+1099 N. Meridian St.,Suite 800
+Indianapolis, IN 46204
+JasonWoodnick
+Vice Presidentof
+Men'sProgram
+BrettMcClure
+High Performance Director
+Raj Bhavsar
+DevelopmentProgram
+Director
+Lisa Mendel
+Men'sProgram Manager
+
+TheMen’sDevelopmentProgramisdevelopedunderthedirectionoftheMen’sDevelopmentProgram
+Committee(MDPC).TheMDPChasthefinaldeterminationintheapplicationoftheprogram,itsrules,and
+organizationofitscorrespondingcompetitivedivisions.TheMDPCMembersdirectingthedesignofthis
+programareasfollows:
+CRheagiiropne1rCshoaniorfpethresoMnDPC...........................................................................DavidKlein
+.....................................................................................MattLowry
+Region2Chairperson....................................................................................MarkBogoger(LiaisontotheClubTrack)
+Region3Chairperson...................................................................................JeritPogue(LiaisontotheNationalTrack)
+Region4Chairperson ..................................................................................KevinWhite
+Region5Chairperson...................................................................................KevinChope
+Region6Chairperson...................................................................................RobertLundy
+NationalGymnasticsJudgesAssociationRepresentative......PeterWieging
+JuniorNationalCoachingStaffRepresentative.............................TomMeadows(LiaisontotheEliteTrack)
+MPCJuniorCoachesRepresentative................................................SergeiPakanich
+MPCJuniorCoachesRepresentative................................................PavelSargsyan
+AthleteRepresentative.................................................................................DavidWillett
+AthleteRepresentative.................................................................................EricHoe
+AthleteRepresentative.................................................................................ZacharyGranados
+Inaddition,theMDPCwouldliketothankLynnBomanforherexpertiseinformattingthemanualinits
+presentationform.
+TheMDPCwouldliketorecognizetheworkofthefollowingcommitteemembersintheirrespectiveareas
+fortheircommitmentandexpertiseinguidingtheprogramdevelopment:
+OptionalRulesWorkingGroup EliteTrackProgram
+Liaison–JeritPogue Liaison–TomMeadows
+MikeSerra VinceMiller JNCS
+PavelSargsyan WayneThompson
+MattHenry DevinHalliday ClubProgramWorkingGroup
+SpencerJohnson PaulEvatt Liaison–MarkBogoger
+BrettLydon KarenZediker
+CompulsoryWorkingGroup KarlJaanimagi
+Liaison–JeritPogue
+AdamLomax SethSmart FormatCommittee
+JorgeValdez TimSaxton Liaison–TimKlempnauer
+MichaelOuellette PaulEvatt KevinChope DaleBullivant
+TimKlempnauer KevinWhite AlScharns
+3
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+FOREWORD
+TheMen’sDevelopmentProgramcelebratesits50thyearastheprimaryprogramaimedat
+fosteringgrowthandadvancementofmen’sgymnasticsintheUnitedStates.Diverseneeds
+oftheclubindustrydriveourcontinueduseofthreedistincttracksdesignedtoaccommodate
+aspirationsofourathletes.Thetracksprovideopportunitiesforseamlessprogressionsas
+gymnastsadvancethroughtheirgymnasticsjourney.Centraltotheprogram’sethosisthe
+provisionofasafeandenjoyableexperiencewithineachtrack,withafocusonfacilitatingeach
+athlete’sgrowthandcommitmenttothesport.
+Inadditiontopromotingsoundeducationforathletes,coaches,andprofessionalmembers,a
+long-termapproachremainsacorepillaroftheprogram. Athletesmatriculatingthroughthe
+systemnotonlybuildontechnicalproficiencyovertime,butgatherincrediblepersonaland
+professionalskillsthatwillservetheminthegymandwithintheirdailylives. Atalllevels,athletes
+aresupportedintheirholisticdevelopment,whichincludespersonalgrowth,characterbuilding,
+andtheacquisitionoflifeskills.
+Theprogramhasbeendevelopedandoverseenbycommitteesofrepresentativesfromacross
+thecountry,bringingtogetherawealthofcoachingexpertiseandanuancedunderstanding
+ofthebusinessdynamicsinherentintheindustry. Inthisnewesteditionoftheprogram,there
+areminimalstructuralchangesfrompreviouseditions,butwehopethatthetargetedpractical
+changesaimedatstreamliningthedevelopmentalcyclesofourathletesisevident. Ahallmark
+oftheMen’sDevelopmentProgramisthepassionofcommitteemembers,coaches,andclub
+ownersacrossthecountrythatremainathlete-centricandvigilantintheircommitmenttothe
+sport.
+TheMen’sDevelopmentProgramseekstoenhancerecognitionandsuccesswithinthejunior
+men’sgymnasticscommunity,withtheultimategoalofcontinualgrowthandcommitmenttothe
+sportofgymnastics. Byencouragingclubstofullyembracetheprogramandtailortheirofferings
+tomeetthediverseneedsoftheirparticipants,theprogramaimstobroadenparticipationand
+fostersustainedgrowthinthesportoverthelongterm.
+Sincerely,
+RajBhavsarOLY
+Men’sDevelopmentProgramDirector
+4
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+TABLE OF CONTENTS
+CHAPTER 1
+JuniorMen'sCompetitionOverview ..Pages9-14
+A. Competition Program Design
+-
+B. TrackOverview- Program OverviewFlowCharts
+C. CompetitiveAge Determination - Athlete Age Based on BirthYear
+—
+D. Mission Statements - Design ObjectivesofEach Program
+a. ClubProgram
+b. National Program
+c. EliteProgram
+d. Nationaland EliteTrackCompetition OverviewChart
+CHAPTER 2
+ClubCompetitionFormatand Rules...... ..Pages15-18
+A. JuniorMen'sClubTrack- Fundamentals oftheMission
+KKK B. Modified Optional Format
+a. TableofRequirements
+C. ScoringSystem
+a. GeneralTableof DeductionsGuidelines
+b. SkillValue Determinationand Additional Judging Notes
+NA D. Coachesand Uniform Requirements
+E. Competition Feesand Operations
+F. Safety
+G. Modified Optional Requirements
+a. Club Special RequirementsTables
+—
+H. Club program - Formatand Linkage
+1. Judges Requirements
+USAGymnastics-Men'sDevelopmentProgram–JuniorCompetitionManual · May2024 OL5
+
+CHAPTER 3
+NationalTrackCompulsoryProgram . . . . . . . . . . . . . . . . . . . . . . . . . . . Pages19-47
+A. CompulsoryLevels-TwoDivisionFormat
+a. DivisionII-BasicCompulsoryRoutines
+b. DivisionI-BasicCompulsoryRoutineswithAddedBonusSkills
+c. Level6
+B. BaseandMaximumScore
+C. StickBonus-DivisionIOnly
+D. SpecifiedBonus-DivisionIOnly
+E. DocumentsofPrecedence
+F. CompetitionUniforms
+G. CoachesCompetitionAttire
+H. CompulsoryJudgingGuidelines-JudgingCriteria
+a. TableofRoutineErrorsandDeductions
+b. PartialCompletionofaSkill
+c. AddedSwings
+d. PositionandSwingCriteria
+e. RequiredHolds
+f. MomentaryHolds
+g. AddedHolds
+h. VideoReviewandBehavioralDeductions
+i. Spotting
+j. CompulsoryTable
+I. CompulsoryOverviewTables
+NationalCompulsoryRoutines–Level3,4,5,&6
+i. FloorExercise................................................................................................................................23
+j. MushroomandPommel-lessHorse............................................................................27
+k. StillRings............................................................................................................................................31
+l. Vault....................................................................................................................................................35
+m. ParallelBarsorBoxes.............................................................................................................40
+n. HorizontalBar...............................................................................................................................44
+6
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+CHAPTER 4
+NationalTrackOptionalLevels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Pages48-60
+A. OptionalLevelsOverview
+a. Level7
+b. Level8
+c. Level9&10
+B. OptionalRulesandDocumentsofPrecedence........................................................49-50
+a. OptionalTrack-RoutineRequirementsLevels7-10.................................................50
+C. AgeGuidelines
+D. VideoReview
+E. BehavioralandSpottingDeductions
+F. ApprovedJunior“A”Skills............................................................................................................50-51
+a. OptionalTrack-ApprovedJunior“A”SkillsTable......................................................51
+G. ApplyingSkillValue
+H. ModifiedRulesTables
+a. OptionalTrack-Modifications&ExceptionsTable..................................................52
+I. FIGRulesChampionshipsEvents
+J. AdditionalExceptionstotheFIGCodeofPoints
+a. InvalidVaultTable............................................................................................................................53
+b. AdlerSkillsModificationTable..................................................................................................53
+K. BonusSystem
+L. Level7Rules
+a. TableofGeneralRulesforLevel7..........................................................................................54
+M. Level8Rules
+a. TableofElementGroupsandRulesforLevel8............................................................55
+N. Level8Pommel-lessHorseCodeofPoints
+a. Pommel-lessHorseCodeofPointsTables............................................................56-58
+O. Level9&10Rules
+a. Level9&10VaultOptionsTable...............................................................................................59
+P. BonusBenchmarksLevel9&10
+a. D&EScoreBonusTables.............................................................................................................60
+7
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+CHAPTER 5
+TheEliteTrack...... Pages61-63
+A. Elite Rules
+B. Technical Sequence - Purposeand Application
+C. NationalTeam — - Description
+D. FutureStars - Program Development
+E. Elite U.S. NationalTeam Tables
+a. General Description of Program
+b. SampleCompetition Tablefor NationalTeamsand Selection
+F. Selection,Campsand Responsibilities
+CHAPTER 6
+ChampionshipCompetitions... .Pages64-67
+A. Stateand Regional Championships
+B. EastandWest Developmental Championships
+C. Development National Championships
+D. EliteChampionships Qualification and Selection
+a. Championship Competition Formats
+b. EastandWest Regional Map
+c. Eastand WestFormat
+E. CompetitionTablefor Eastern and Western National Championships
+a. SampleFormatforCompetition - Levels7,8,9NationalTrack
+F. Eastern andWestern Bids- General Parameters
+G. OverviewofFormatfor Development Nationals – Level 10 and Elite
+H. SampleCompetition FormatTablefor Development Nationals
+I. General informationaboutAllotment Systems Process
+J. General Information about Qualifying Scores
+K. AwardsGuidelines
+CHAPTER 7
+EquipmentSpecifications&Officials Duties ..... .Pages68-69
+A. General Guidelinesfor Modifications to EquipmentStandards
+a. Matting, Landings, Height Requirements
+b. Springboardsfor Mounts
+c. Boxes,Pommel-less Horseand Mushrooms
+d. Ceiling Mounted Rings
+e. Tumbling Strips
+B. Statementon Judgingand Evaluation Procedures
+C. TableofEquipmentSpecificationsand Matting
+D. Additional General Duties of Judgesand Officials
+8 USAGymnastics-Men'sDevelopmentProgram-— •
+JuniorCompetitionManual May2024
+
+Chapter 1
+JUNIOR MEN’S
+COMPETITION PROGRAM OVERVIEW
+A .CompetitionProgramDesign:TheMen’s Althoughcoachesmaybemorefamiliarwith
+DevelopmentProgramisdividedintothreegeneral thecurriculumbasedcompulsoryandoptional
+tracksandofferscompetitiveformatsappropriate formatsoftheNationalandElitetracks,thereisa
+foranyathletedependinguponinterest,level hugebenefittocreatingastrongClubprogram
+ofcommitmentandrelativeability.Themission ineachlocalareathatmayprovideservicefor
+statementsforeachofthesetracksprovidean anuntappedmarketandalargernumberof
+overviewoftherespectivedifferencesandgoals participantswhodesiretoenjoygymnasticswith
+tohelpcoachesplaceathletesinacompetitive lessrigorouscriteria.Thisprogramisentirely
+environmentbestsuitedtotheirneeds. drivenbycustomerdemand,ratherthanarule
+structuretypicalofmorein-depthgymnastic
+Youwillalsofindinformationinthischapter curriculum.
+thatgivesanoverviewofthegeneralrulesand
+proposedagelevelsforeachtrackwithinthe BoththeNationalandClubtracksmoveaway
+Men’sDevelopmentProgram.Futurechaptersare fromrestrictiveagerequirements.Thiswillallow
+devotedtomorespecificinformationincluding coachesandclubstomanagetheirclientele
+rulesastheyrelatetoeachtrack. basewithmoreflexibilityandefficiency.Each
+levelintheseprogramswillbeopen-endedand
+Knowingtheindividualneedsandgoalsofeach supportiveofage;inmostlevelsonlyaminimum
+athleteisanimportantconsiderationfortheirap- ageisrequired.Thisallowscoachestodivide
+propriatedevelopment.Growthandparticipation agecategoriestobetterreinforcetheconcept
+inavarietyofprogramsanddisciplinesisessen- ofretentionandrecognition.TheElitetrack,due
+tialtothehealthofeachclubandtheindustryas toitsspecificmissionofdevelopmentofour
+awhole.Eachandeverygymnasticsprogramis NationalTeamProgram,retainsmoretraditional
+invaluableinregardstosustainingmen’sgym- designatedagecategories.RefertotheMen’s
+nasticsintheU.S.andarevitaltoensuringthatthe ProgramRulesandPoliciesformoreguidance
+sportcontinuestoprosper. onrecommendedagegroups.
+JuniorCompetitionProgram–3TrackDesign
+Track Club National Elite
+JuniorLevelof Local(State/
+State,RegionalandNational National
+Competition Regional)
+Recreational
+Participation&development Development&trainingof
+Program competitionto
+leadingtohigherlevelsof athletesforinternational
+Mission promoteparticipation
+competition competition
+&growth
+PotentialLevel HighSchool CollegiateGymnastics JuniorNationalTeam
+OfParticipation CollegiateClub SeniorCompetition InternationalCompetition
+Structure LevelBased LevelBased AgeBased
+9
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+B.TrackOverview:Thischartgivesa general events.Migration betweentracks based on ability
+overview ofeachtrack, relative age requirements, andachievementis encouraged. The Essential
+levelsofcompetition,and general curriculum. Elements program isencouraged toallow athletes
+Athleteshaveflexibleand unlimited opportunities totransition seamlesslyfrom class participationto
+to migrate between tracks subjectto localor anappropriateteam program.
+regional qualification guidelinesforchampionship
+Program Overview FlowCharts
+CLUBTRACK
+NATIONALTRACK ELITETRACK
+Modified Optional
+Compulsory/Optional Optional +
+Minimum
+Minimum Age Technical Sequences
+Competitive Age
+Level10 Level10
+PLATINUM
+OPTIONAL JECOMPETITION
+8years
+16years 16-19years
+Level9 Level 9
+GOLD OPTIONAL JECOMPETITION
+7years 14years 14-15years
+Level8 Level8
+OPTIONAL JECOMPETITION
+SILVER 12years 12-13years
+6years
+Level7
+OPTIONAL
+12years
+BRONZE
+6years
+Level 6 Level6
+COMPULSORY JEFUTURESTARS
+10years 10-11years
+ESSENTIALELEMENTS Level 5
+Nominimumage COMPULSORY
+8years
+Level4
+COMPULSORY
+7years
+Level3
+COMPULSORY
+6years
+10
+USAGymnastics-Men'sDevelopmentProgram-JuniorCompetitionManual May2024
+
+CompetitiveAge Determination Further, ifthe season'scompetitions began in
+Decemberofthe previousyear (i.e.,2023) but
+C.AthleteAgeBasedonBirthYear:Forall levels
+thechampionshipforthat season is held in
+ofcompetition in eachofthethreetracksan
+2024,theathlete's age is hisageasoftheyear
+athlete'scompetitive agewill be defined bythe 2024.Athleteswhose competitive age is6years
+yearinwhichhe is born.Thecompetitive season
+mustreachtheir5th birthdaybeforetheyare
+isdefined bytheyear inwhichthechampionship
+allowedto compete in Level3.
+forthatcompetition program is held. Forexample,
+ifa championshipatany level is held intheyear
+MissionStatements
+2024regardlessofwhat month itis held in,the
+athlete'scompetitive ageforthatseason oryear D.TrackDescriptions:Thefollowing descriptions
+isdefined byhisage asofDecember 31st ofthat explainthe purposeand design ofeach
+year.Forexample,ifanathletewas born in2012 program andthegoalsofeach ofthethree
+thenhisageforthe 2024season is 12yearsold. competitiontracks.
+CLUB TRACK
+MissionStatement pathways bothinand outofthe NationalTrack,
+allowingathletesand theirfamiliesthe abilityto
+TheClubTrackisa level-based, recreational
+choosewhat is bestforthem throughouttheir
+competitive program designedto promote
+gymnasticscareer.
+increased participation in boy's gymnastics,
+locally.Thiscost-effective platform does not
+WhotheTrack isfor
+require expensive equipment, experienced
+boy'scoaches,ora large section ofgym space. TheClubTrackisforany boyfiveyears ofage
+TheClubTrackis ideal forclubs looking tostart
+andolderandwants to experiencecompetitive
+aboy's program.Inaddition, it providesthe
+gymnastics. Most boyswanttofeel asthough
+opportunityto identifyand train newcoaches
+theyare partofa team,whichwouldtypically
+andjudgesforthe sport.The structure, rules,
+takea considerableamount oftime using
+and execution ofthe programshould be
+traditionalgymnastics pathways. Because
+driven bymeeting the needs ofthecustomers
+ofthis, boysoften gravitate to other sports,
+(athletesand parents), ratherthan whathas
+beenthetraditional boy's gymnastics path. wheretheycan sign upand start competing or
+playingthegame rightawaywith minimaltime
+andfinancial commitments.The ClubTrackwill
+WhattheTrack is
+givethem thatsame opportunityto"getinthe
+TheClubTrackhasa simpleformatthatis easy
+game"and be partofthe gymnasticsteam. In
+to understand and implement. Routinesare in a
+addition,dueto the lowercommitment level
+modified optional format to allowforversatility,
+oftheprogram, it is idealforthe multi-sport
+creativity,and fun.The program providesan
+athletes,and boyswith other activitieswho still
+opportunityfora boytowalkintothe gym,join
+theteam,and be readyto competewithin
+wanttocompete in gymnastics. Finally,the
+ashortperiod oftime.Each levelhasbasic ClubTrackis greatfor boyswhoare introduced
+building blockskill requirementsto promote togymnasticsata laterage.The simplified
+gymnastics progressionswith minimal hours progressions providean expedited process
+oftraining,and a lowercostofparticipation. ofachievementthatcan keep pre-teenand
+Theprogram isalsodesigned to provide teenage boysengaged and encouraged.
+USAGymnastics–Men'sDevelopmentProgram- –JuniorCompetitionManual • May2024 11
+
+NATIONAL TRACK
+MissionStatement
+Thefinalcompulsorylevel,Level6,prepares
+TheNationalTrackisalevel-basedcompetitive athletesforthetransitiontooneoftheoptional
+programdesignedtopromoteparticipation levels,whichusedifferentcompetitionrule
+whileemphasizinglong-termgymnastics structures.
+development.Thistrackrecognizesdifferences
+inanathlete’sacquisitionandmasteryof TheLevel7-10optionaltrackisdesignedto
+gymnasticsskillsandprogress.TheNational prepareanathleteforhigherlevelcompetition
+Trackutilizesdivisions,minimumagesorage usingtheJuniorFIGrulestructurewithsome
+groups,andacompulsory/optionalpathwayto modificationsspecifictoeachlevelbased
+increasetheopportunitiesforrecognition,social onabilityorage.Participationintheselevels
+interaction,andprogressiveachievementinthe providesopportunitiesthatcouldpotentially
+sport.Thestructure,rules,andexecutionofthe leadtoacareerattheCollegiateLevel.
+programshouldbebasedonacombination
+ofconsumerneedsandfollowsthetraditional Level7,asasimplifiedoptionallevel,
+gymnasticsdevelopmentpath. isdesignedtoencouragecontinued
+participationforathletesdesiringaless
+WhattheTrackis rigorouspathtooptionalgymnasticsskills.
+Therulesarecreatedtorewardagreater
+Incompulsorylevels3,4,&5thetracksare variationofskilllevelsallowingcompetitive
+dividedintotwocompulsorydivisions- successandrecognition,whilecontinuingto
+Division1&2. Inlevel6,thereisdivision1and gainskilldifficultyandmovingtowardsthe
+JE. Thereisnodivision2forlevel6. Inoptional Level8,9,or10optionallevels.Additionally,
+levels,thetrackincludeslevels7,8,9,&10. Level7providesanopportunityforathletesto
+Thedifferentcompulsorydivisionscreatea continueadvancementoneventswherethey
+rangeofdevelopmentalneedsandexpand mayexcel,withoutbeingheldbackonevents
+opportunitiesforpeerversuspeercompetition thattheyfindmorechallengingandwithout
+amongathletesofvariedabilitylevels.Forthis requiringthemtoparticipateintheAll-Around.
+reason,theDivisions1and2maynotbemixed
+forthepurposeofawards.Thetrackshavealso WhotheTrackisfor
+beendesignedtoallowmovementfromone
+tracktoanotherinordertomeettheathlete’s TheNationalprogramisforanyboysix
+needsovertheirentiregymnasticscareer.Asan yearsofageandolderthatisinterestedin
+example,theEssentialElementsProgramand teamandindividualcompetition.Duetothe
+theClubProgram,provideanopportunityforan progressivenatureofskilldevelopment,an
+athletetocrossovertotheNationalTrack.The athleteintheNationalTrackmayrequiremore
+NationalTrackmayprovideanopportunityfor hoursinthegymeachweekascomparedto
+anathletetomoveintotheEliteTrack. thelessdemandingClubTrack.Specifically,
+theNationalTrackoffersawiderangeof
+Thecompulsorylevelscontaincarefully opportunitiesforathletesthatmaywantto
+constructedroutinesthataredesignedto activelyachieveahigherlevelinthesportwith
+developacomprehensive,progressive,and thepossibilityofcontinuingtheirparticipation
+fundamentalfoundationofskillsoneachevent. ingymnasticsatthecollegiateorseniorlevel.
+12
+USA Gymnastics – Men’s Development Program – Junior Competition Manual • May 2024
+
+ELITE TRACK
+MissionStatement
+Athletes11-19yearsofage, aspiringtothe
+TheEliteTrackisanage-based competitive
+JuniorEliteTrack,are required tocompete
+program designed to develop andtrain intheTechnical Sequence Program. These
+athletesto be successful in international athletes mayqualifytothe EliteTrackby
+competition.The EliteTrackusestechnical competing bothTechnical Sequencesand
+sequences designed toachieve an exceptional Optional routinesattheir State and Regional
+level ofrefinementand technique,combined Championships. Ifthey meetthe required
+withfoundational skillsforoptionalskill qualification score,theymaycompeteatthe
+development using the Junior FIGrule structure. JuniorNationalChampionships inthe Elite
+TheUnited States Junior NationalTeams are TrackwhereNational Team selection takes
+selected through the Elite Trackcompetition place.
+track,and areeligiblefor potential selectionto
+representthe USAin international competitions. WhotheTrack isfor
+TheEliteTrackisopentoanyathletewilling
+Whatthe Track is to makethecommitmenttothe rigorous
+TheEliteTrackisa programthat requires requirements ofthe program. The Elite
+a high levelofcommitmentfrom both Trackcan alsoassistathletes intheir
+athletesand coaches.The EliteTrackhastwo advancementthroughthe NationalTrack.
+supplemental programs inaddition to Level 8, Athletescompeting inthe EliteTrackaspire
+9,and 10optional routines:the Future Stars and to qualifyforselection totheJunior National
+Team and attend nationalteam training
+TechnicalSequence programs.The Future Stars
+camps,wherethey receivefurtherinstruction
+Program isdesigned to provide gymnasts10-11
+yearsofagewith a foundationofadvanced toassist in theirdevelopmentto international
+leveltechniques necessarytosuccessfully standards.NationalTeam athletes maybe
+assignedto representthe UnitedStatesat
+transitiontothe optional rulesstructure. Future
+StarsroutinesfittogetherdirectlyintoTechnical various international competitions uptoand
+Sequences.Technical Sequencesensurethe includingtheJuniorWorld Championships.
+continuedfocus on technical executionand
+refinementasathletes increase skilldifficulty.
+USAGymnastics-Men'sDevelopmentProgram— -JuniorCompetitionManual • May2024 13
+
+National & Elite Track Competition Overview Chart
+Non-Competitive Levels1-2
+Levels1&2 NoMinimum Age EssentialElements Program
+Competitive Levels 3 - 10
+CompetitionRequirements -QualificationtoChampionshipEventswill bedetermined byeach region/state
+organization.Qualification toJuniorSectionaland NationalChampionshipeventswillbedetermined bythe MDPC.
+Birthyeardeterminescompetitionageforalllevels-Ageintheyearofeachlevel'sChampionship
+CompulsoryLevels 3- 5& 6 Division 1
+Division 1 &2 maynotbecombined forthe purposeofindividualawardsonlyforTeam Awards
+ScoringBreakdown - Exception:Vault- RefertoChapter3Vault
+Minimum
+D1 BaseScore
+Level Competitive StickBonus Specified Bonus Division1
+D2MaxScore
+AgeAllowed D1Only D1Only MaxScore
+NoD2inLevel6
+3 6yrs.
+4 7yrs.
+9.0 0.1 0.9 10.0 LO 5
+8yrs.
+6 10yrs.
+OptionalTrack- Routine Requirements - Levels7 - 10
+JuniororSeniorFIGRulesapplyexceptwhere noted by modifications orexceptions
+DScoreComponents
+Minimum
+*Required #of
+Level Competitive Numberof Dismount Event
+Valuefor Element StickBonus
+AgeAllowed ValueSkills EGValue Restrictions
+FullEGcredit Groups
+*ElementGroupValue Required for 0.5 – Exception of EG 1 on FX, PH, R, PB& HB
+See Level7
+6 FIG"A"==
+7 12yrs.
+Any6skills
+A 3
+0.5 inEG
+None Tableforevent
+restrictions
+4from VT= +0.1 VT-Nomultiple
+8 12yrs. A Level8 Allothers Saltos
+Table B+= +0.1 FX-NotripleSaltos
+FIGValue FIG -NoJunior
+9 14yrs. 78 + C ofskill = VTwith prohibited Skills
+dismount 4from FIG
+Valuefor
+Salto= +0.1 FIG NoJunior
+10 Jr. 16yrs. Codeof EG
+prohibitedSkills
+D Points Allothers
+10 Sr. 18yrs. C+ = +0.1 No Restrictions
+Junior"A"skillsareawarded atall levels
+Note:Stickbonuswill beawardedonVaultforLevels3-6.
+14 USAGymnastics-Men'sDevelopmentProgram-JuniorCompetitionManual • May2024
+
+Chapter 2 Levels
+Bronze,Silver,
+CLUB TRACK PROGRAM
+Gold&Platinum
+FundamentalElementsoftheClubTrack
+A .TheJuniorMen’sProgramClubTrack TheClubTrackprovidesgreaterflexibilitythanthe
+Thistrackprovidesarecreationalbasedgymnas- compulsorytrackyetparallelsthecompulsory
+ticscompetitionoptiontoexpandparticipationand levelswiththreerequiredelementsoneachevent
+enjoymentofthesport.Thisformatisdesignedto allowingmigrationfromtheClubtotheNational
+providesolutionstolimitedtraininghours,elevated Track.TheEssentialElementsprogramcanbeused
+costsassociatedwithateamprogram,judging, asanentrypointforclubstoestablishateampro-
+andtravel,regimentedtrainingandcompetition gramattheClubTracklevelthatdoesnotrequire
+uniformrequirementsandmore. amajorcapitalexpenseformen’sequipmentor
+highlyexperiencedcoaches.TheClubTrackisnot
+Inaddition,gymnasticstypicallyrequiresalengthy seenasaseparatetrack,butoneofthreetracksto
+timecommitmentbeforeanopportunityisafford- provideaccesstothesportforeveryindividualto
+edtocompete.TheClubTrackrequiresminimal participateintheJuniorMen’sCompetitivePro-
+experienceinbothtrainingandfundamentalmas- gramregardlessofexperiencelevel.
+tery.Thistrackisflexibleenoughtoallowforpar-
+ticipantstosuccessfullyexperienceacompetitive TheClubTrackmayculminateataStateorRe-
+environment.Thistrackmaybeseasonalanddoes gionalChampionshiplevel;however,flexibilityis
+notrequireayear-roundcommitment.Anotherkey providedforeachstateorlocalareatotailorthe
+contributortothistrackistheabilityforathletesto competitiveformataccordingtoitsneedsinclud-
+usetheirgymnasticstrainingandconditioningto ingthetimeofyearorseasonthatcompetitions
+supporttheirskillsinothersports. areheld.Providingopportunityandrecognitionis
+theguidingprincipleofthistrack.Thegrowthofthe
+Byreducingthefollowing:traininghours,competi- ClubTrack,overtime,supportstheNationaland
+tions,uniformandcompetitionfees,thisprogramis Elitetracksbyprovidinggreaternumbersandreve-
+designedtoofferacompetitivegymnasticsexperi- nuetotheoverallmen’sprogram.
+enceforasignificantlyreducedcost.Reducingthe
+timeandcostsassociatedwithgymnasticswillen- B .CompetitionFormat
+couragemorefamiliestoparticipateincompetitive Thefollowingtabledefinesthegeneralformat
+men’sgymnastics,andultimatelyaidintheoverall structureforcompositionofroutinesbylevel:
+growthofthesport.
+ClubTrackTableofRequirements
+Agegroupswithinthelevelswillbedeterminedbyeachindividualcompetitiondirector
+Numberof Number MaximumFIG
+Minimum Associated Maximum
+Level ValueSkills ofSpecial ValuePart
+Age NationalLevel Score
+required Requirements Allowed
+Bronze 6yrs. EssentialElements 6 3 A 10.0
+Silver 6yrs. Level3 6 3 A 10.0
+Gold 7yrs. Level4 6 3 B 10.0
+Platinum 8yrs. Level5+ 6 3 C 10.0+Diff.
+Note:PartsshouldbeconnectedwiththeexceptionofBronze,Silver,&GoldPHwherepartscanbeseparatedwithastop.
+15
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+C.ScoringSystem:TheClubTrack isdesigned coachornewlycertifiedjudgeatthe local level,
+to requirea minimum setof requirementsfor toquicklyand accuratelydetermine a scoreor
+gymnaststofulfill.It is expected thata gymnast ranking.Thescoring system is designedto be
+enteringtheprogram forthe firsttime may lesspunitive interms ofdeductionvaluessoasto
+havea limitedfoundation ofexperience and skill encourage participation.
+level,thereforeacomplexsystem ofrules is not
+appropriateforthis level ofcompetition. Similarly, Thefollowingtable liststhe specific rules
+evaluation should bestraightforward enoughto application to evaluate performanceand arriveat
+allowanyonewith a basic knowledge, such asa afinalscore:
+Club Track - General TableofDeductions
+Error Deduction Explanation
+Small -0.1
+Medium -0.2
+DeductasperFIG
+Large - 0.3
+Fall -0.5
+Missingvaluepart -0.5 Lessthan6value parts requiredas per level's requirements
+MissingSpecial Requirement -0.5 Missingoneofthree requirementsas per level's rules
+Skillofdisalloweddifficulty -0.5 Difficultyskillabovethe maximum FIGvalue allowed perlevel
+ClubTrack- Skill Value Determination
+Note:Onlythe Platinum Leveladdsdifficultyvalueforthe 6 allowed partstothe execution score
+Anyallowableskillfrom the FIGCodeofPoints
+Anyskillfrom the listed Junior"A" published list
+AnyskillfromtheNationalcompulsoryroutines including basic swingswillbe given an"A"value (no difficulty
+value) unlessit isa listed FIGallowedvalue partasdescribed above
+AnyEssential Elementsskillwill be given "A"value (no difficultyvalue)
+ClubTrack- Additional Judging Notes
+Thereisnostickbonus intheClubtrack
+Theminimum scoreforanyattempted exercise is6.0
+Therearenodeductionsforrepetition ofskills - partsmaybe repeatedto countasavalue part
+Oneskillcannotfulfill more thanone Special Requirement
+Aroutineconstitutes 6parts ofvalue withthe exception ofVaultand Mushroom Bronze,Silver,Gold
+Onlyonededuction will be assessed foreach skill inthe exercise.Small,Medium, Large,orFall
+Exception:Vaultwillbejudgedfor Run, Board position, Flight,and Landing
+A spottercanappearonthefloorexercisewith nodeduction ifthey donotmake contactwiththeathlete.
+D.Coachesand Uniforms:Participantsare not E.CompetitionFeesandOperations:Competition
+requiredtoweartypicalcompetition uniforms, i.e., feeswillbe setbyeach individual State committee
+competition pants,competitionjersey.T-shirts, orboardoverseeingthe ClubTrackcompetition.
+shortsorsimilarattire are acceptable onall events Qualificationsto State Championshipsand awards
+to reducecostto participants. Nofootwearis will bedetermined byeach State.
+requiredforanyofthe events in theClubTrack.
+Coach'sattireand professional responsibilitiesare F.Safety: Meetdirectorsshouldinsurethatequipment
+thesameasthe U.S. National Programand listed in specificationsand mattingareconsistentwithapproved
+Chapter3. guidelinesandadequateforthesafetyofthe participants.
+16 USAGymnastics- Men'sDevelopmentProgram-—JuniorCompetitionManual • May2024
+
+Club Special Requirements Tables
+G.ModifiedOptionalRequirements:The following grids showtheSpecial Requirements necessaryfor
+routinecomposition oneachevent:
+Bronze Silver Gold Platinum
+Handstandforward
+1. 3/4Handstand Handstand Handstandfull pirouette
+roll
+Floor
+FrontHandspringor
+2. Forward roll Backward roll FrontSaltoanyposition
+FrontTuck
+BackHandspringor
+3. Cartwheel Round-off BackSaltoanyposition
+BackTuck
+Bronze-Mushroom Silver-Mushroom Gold-Mushroom Platinum-Horse
+Pommel 1. ½circletosupport CircleorFlair 2CirclesorFlairs Use2 partsofhorse
+Horseor
+2. ½circlewith4turn Circle 1Circle Swing, Falseorfull scissor
+Mushroom
+3. Dismountlanding 1/4turnto dismount ¼turnto dismount 2+Circle,Flair,orLoop
+Bronze Silver Gold Platinum
+1. Hangingtuck Hangingtuckor"L" Pulltoinverted hang SupportHoldw/wo"L"
+Rings 2. Invertedhang Intermediateswing Swingtohorizontal Inlocate ordislocate
+Stretched Salto or
+3. Droptodismount Anydismount Saltodismount
+DoubleTuckDismount
+Bronze-Anymat Silver-SkillCushion Gold-SkillCushion Platinum-Table/Mats
+Stepstohurdle
+Runand hurdleto
+fromtwofolded Runand hurdleto
+board:
+Vault panel matsonto board: Fronthandspring
+1. Stretchjump
+springboardto FrontSalto OrRound-off
+TuckorStraddle
+Stretch,Tuckor TuckedorPiked
+jump
+StraddleJump
+Bronze-Mat/Bars Silver-Mat/Bars Gold-Bars Platinum-Bars
+Support"L" or
+1. Supporttucked Support"L"Hold Momentaryhandstand
+straddle
+Parallel
+MoyUpperArm or
+Bars 2. Supportswing Swing barheight Longhangswing
+AnyEG3
+Swingtodropor WendeorSalto
+3. Droptostand Forward½turn off
+flank dismount
+Bronze-Anybar Silver-Anybar Gold-Anybar Platinum-HighBar
+1. Support(assist) Swing Pullover Any4orfull giantswing
+Horizontal
+Bar 2. Cast Undershoot Backhipcircle KiporClearhip
+3. Dropdismount Swingtodrop
+Swingtoany
+Saltodismount
+dismount
+USAGymnastics-Men'sDevelopmentProgram—-JuniorCompetitionManual • May2024 17
+
+H .ClubFormatandLinkage:Thedesignofthe orskillareasareincludedinthatcomposition.
+ClubTrackisintendedtoencouragetransition Thisformatiseasierforathleteswithlimited
+totheNationalCompulsoryTrack.Theconcept andvariedabilitiestoparticipateandenjoy
+isthatifthespecialrequirementsateachlevel gymnasticsasasport.
+aresimilartotheNationalTrackcompulsory
+levelthenagymnastmayhavetheopportunity I .JudgesRequirements:Onlyonejudgewillbe
+tomigratetothecompulsorytrackatanytime usedforeachevent.Judgesmayincludeany
+shouldheprogresstothepointwherecompetition USAGymnasticsprofessionalmemberorJunior
+inthattrackisappropriate.Thisisprovidedfor certifiedcoach.Anyissuesthatmayarisewith
+ateachofthefourlevelsofcompetitionwithin operationoftheprogramshouldbereviewed
+theClubTrack.Thisisreferredtoasamodified andmanagedwithineachindividualState
+optionalformatbecauseonlythreerequirements organizationwithregardtothebestinterestsof
+arelisted,andnotthefullroutineofcompulsory theathletesparticipatingintheprogram.Each
+skills.Agymnastandcoachmayconstructtheir StateorRegionmaydeterminecostparameters
+ownroutineaslongasthethreerequiredskills forjudgingfeesbasedonneedandformat.
+18
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Levels3,4&5
+Chapter 3
+Division1&2
+NATIONAL TRACK
+Level6
+COMPULSORY PROGRAM
+Division1
+FundamentalElementsofthe alternativestocompetetheLevel6JE(JuniorElite)
+CompulsoryLevels routinesthatarefoundintheTechnicalSequence
+Manual.
+A .CompulsoryLevels
+B .BaseandMaximumScore:Thecompulsory
+Level3,4&5:TwoDivisionFormat:TheNational
+programinbothdivisionsincludesscoringthat
+TrackCompulsoryProgramisdesignedwithtwo
+evaluatesexecutionandperformancecriteriafrom
+divisionsinLevels3-5.Coachesdecide,basedon
+amaximumvalueof9.0.TheBaseScoreforeach
+theathlete,whichdivisionofcompetitionismost
+routineoneachevent(withtheexceptionofVault
+appropriate.Athletesmayswitchdivisionsatany
+–seeVaultTablesonpage35)startsat9.0and
+timeduringaseasonupuntilthedatemandated
+executiondeductionsaretakenfromthatscore.
+bythestateorregionforqualificationtotheir
+TheMaximumStartScoreforaDivision2routine
+championshipevent.
+is9.0,thereisnobonusavailableforDivision2
+Division2isdesignedforathletestocompete gymnasts.TheMaximumStartScoreforaDivision
+thebasiccompulsoryroutinewithout 1routineis10.0,thereareupto1.0pointinbonuses
+performingthespecifiedbonusskills.Thisisan availableforDivision1gymnasts.(StickBonusfor
+opportunityforathleteswhomaybenewto +0.1and3SpecifiedBonusSkillsfor+0.3eachfora
+thesportorlevel,orhavenotyetreachedthe totalof1.0inbonuses)
+pointintheirdevelopmenttomovetothemore
+advancedspecifiedbonusskills.Division2gives C .StickBonus–Division1Only:TheStickBonus,
+athletestheopportunitytocompetewithother availableonall6events,isworthonetenth(+0.1)if
+gymnastsintheirpeergroupatthebasiclevel. thecriteriaofastucklandingisfulfilled.Thecriteria
+usedfordeterminingastucklandingisdefined
+Division1:providestheoptiontoperformup
+intheFIGCodeofPointsunderthe“Landings
+tothreespecifiedbonusskillsoneacheventin
+&DismountsontheFeetwithoutDeduction”
+Levels3through5.Thesemoredifficultbonus
+paragraph&table.Additionalerrorsinexecution
+skillseitherreplaceorareaddedtothebasic
+(unsteadiness,armswings,lowchest,lackof
+compulsoryroutine.Division1isdesignedfor
+preparation,etc)mayresultindeductionsbutwill
+strongerormoreexperiencedathleteswhoare
+notnegatetheawardingofastickbonus.
+capableofdoingmoreadvancedskills.
+Thescoringbreakdownforeachcompulsorylevel D.SpecifiedBonus–Division1Only: Withthe
+anddivisionislistedintheMen’sDevelopment exceptionofVault,aDivision1athletehasthe
+ProgramCompulsorycompetitionoverviewtable opportunitytoperformupto3SpecifiedBonus
+onpage14.Baseduponthedifferenceinthe Skills.Eachskillmeetingtheperformancecriteria
+scoringstructureforthesetwodivisions,Division receivesavalueof(+0.3).SpecifiedBonuscriteria
+1and2maynotbecombinedforthepurposeof isasfollows:SpecifiedBonusmaybeawarded
+individualawards,onlyforTeamAwards. eveniftherearemultiplesmallormediumerrors
+intheperformanceoftheskill.SpecifiedBonus
+Level6–Division1Only:Level6hasonlyaDivision willnotbeawardedifthereisasinglelargeerror
+1unliketheothercompulsorylevels.Itisuniqueas orfallintheperformanceoftheskill.IfaDivision
+thefirstleveloftheJuniorNationalandJuniorElite 2athleteperformsaSpecifiedBonusSkillhewill
+divisionswhichcontinueintheoptionallevels8- notbeawardedbonusbutwillbededucted(-0.3)
+10.Level6willgiveathletestheoptiontocompete eachtime.Additionally,aSpecifiedBonusskillmay
+thebasicroutinewiththeadditionof3specified berepeatedwithoutlimitationonthenumberof
+bonusskillsliketheLevel3-5Division1routinesbut attemptstogainthebonus.SpecifiedBonusskills
+willalsoallowathletespursuingmoreadvanced aregenerallymoreadvancedthanthebasicskills
+19
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+theyreplace and can helpto prepareathletesfor footwear,and a tankorcompression style
+thenextlevelofcompetition eventually preparing topon pommel horse,still rings, parallel bars
+themtoentertheoptional levelsofcompetitionas and horizontal bar. On floorexercise andvault
+theyadvanceinageandability. thegymnastmaycompete in shorts,tank
+orcompressionstyle top, and barefeetor
+E.DocumentsofPrecedence:The FIGCodeof gymnasticsfootwear.
+Pointsrulesofexecution and performance apply
+tothecompulsoryprogram inall casesexcept Forsafetyreasons,jewelryofanykindisNOT
+forthefollowing modificationstothecompulsory allowedduringcompetition and isconsidered a
+programs: Execution deductionsforCompulsory uniform violation. Uniform violationswill resultin
+Levelsarechanged from thestandardFIG a medium behavioral deduction of0.2 on each
+deductions (Medium -0.3, Large -0.5 andFall/ eventinwhich the infraction occurs.Thejudge
+Spot-1.0)to (Medium -0.2,Large -0.3 andFall/ willwarnthegymnastthatthe deductionwill
+Spot-0.5) and aredefined intheCompulsory betakenateach event.Forsafetyreasons,itis
+TableofRoutine Errorsand Deductionson page21. stronglyrecommended thatanathlete'shair
+Deviationsfromthese rulesarespecifically noted bepulled backawayfrom theirface soasto
+foreacheventinthe event routine tableswith notobscuretheirvision ofthe apparatusbutno
+specific required performance criteriafound in uniform orbehavioral deductionwill beenforced
+theMen'sDevelopment Program Manualand/or forthis infraction.
+subsequentupdateswhichwill take precedence.
+Coachesshouldfamiliarizethemselveswiththe G.CoachesCompetitionAttire:Coachesare
+FIGCodeofPointsthoroughlyin additionto using requiredto bein professional attire on the
+thecompulsorytablesasa guide to performance competitionfloor. Professionalattire includes:
+criteria.Forfurtherclarification,refertothecurrent athletic attire suchasawarm-upsuit, polo
+FIGCodeofPoints, itsofficial newsletters,and shirtort-shirt/hoodiewithclub/team logo,
+NGJA/USAG interpretationsand Newsletters. athleticfootwear (no streetordressshoes),long
+athletic style pantsorshorts (e.g.,golf shorts), no
+F.Competition Uniforms: InCompulsoryLevel3, sleevelessshirts, no hats, nodenim style pants,
+theminimum attire in competition isshortsand nocargostyleshorts. Backpacksshould remain
+T-shirt (nofootwear is required) onallevents. In inthecompetitorseating areasoffthefloorand
+CompulsoryLevels4, 5, and 6the gymnast must maynotbeworn bycoaches onthecompetition
+competeinlong pantswith socksorgymnastics floor.
+20 USAGymnastics- Men'sDevelopmentProgram-JuniorCompetitionManual May2024
+
+CompulsoryJudgingGuidelines deviationsinperformancecriteriaaredefined
+ineachoftheCompulsoryRoutineEventTables
+A .JudgingCriteria:Alltechnicalexecution
+foundintheMen’sDevelopmentProgram
+deductionsinthecompulsoryprogramaredefined
+Manualorsubsequentupdates.Thefollowing
+asperFIGbuthavebeenmodifiedasnotedabove
+tabledefinesthetypeoferrorsandsubsequent
+inParagraphDandinthe“CompulsoryTableof
+deductionsthatmayoccurduringaroutineand
+RoutineErrorsandDeductions” Thenotation“as maybetakenbythejudgewhenevaluatinga
+perFIGordefinedbyFIG”referstotheInternational
+performance.
+GymnasticsFederationCodeofPoints.Specific
+CompulsoryTableofRoutineErrorsandDeductions
+Error Deduction
+OPamrittiatleCdonmupmlbeteiroendopfanrutm(baserneudmbpearrtedintable) 1.0
+0.5
+Non-Recognizablepart(notlistedinroutine) 0.3(plusallaccruedexecutiondeductions)
+IncludesspecifiedbonusskillsperformedinD2routines ApplytobonusskillinDivision2eachtime
+CompositionError(notperformedaswritten) 0.3(onceperroutine)
+NonpermittedspotteronFXorPH 0.3
+Spot(assistingintheperformanceofaskill) 0.5
+LFaalrlg(edeerfrionre(ddbeyfiFnIGe,dobnytoFIoGr)offtheapparatus) 0.5
+0.3
+MSmeadliluemrreorrr(odre(fdienfeidnebdybFyIGF)IG) 0.2
+0.1
+EmptyandIntermediateswings(definedbyFIG) Empty(1⁄2)-0.2,Intermediate(Full)-0.3
+B . PartialCompletion:Ifajudgedeterminesthat D .Positionandswingcriteria:Allhandstand
+50%ormoreofthenumberedpartwasperformed positioncriteriaaredefinedasperFIGrules.
+thentherewillnotbeadeductionforanomitted Requiredswingpositionsoranglesofswingsin
+numberedpart.However,a(-0.5)deductionwill compulsoryroutines,unlessspecificallynoted,are
+betakenfortheomittedportionofthenumbered definedandevaluatedas(a)Horizontal(b)45°(c)
+partandexecutiondeductionswillbetakenforthe Verticalor(d)BarorRingheight.
+completedportion.Additionally,thegymnastwill
+receivecreditforhavingperformedthenumbered E .RequiredHolds:ArequiredholdinFIGistobe
+part.InthecaseofaSpecifiedBonusskill,the heldforaminimumof2secondsmeasuredfrom
+gymnastwillreceivecreditforhavingperformed themomentthatacompletestopintherequired
+theoriginalnumberedparteventhoughheis positionhasbeenreached.Failuretoachievea
+notawardedbonusduetoafallorsinglelarge completestoppositioninanattemptedholdof
+deduction aSpecifiedBonusskillrequiringaholdwillresult
+inasinglelargeerrordeductionof(-0.3)andno
+C .Addedswings:Unlessspecificallyrestrictedin bonusbeingawarded.Creditforthenumbered
+acompulsoryroutine,addedcirclesonPommel partwillbeawarded,butNOSpecifiedBonuswillbe
+HorseorMushroom,extraswingsonStillRings,or awardedfortheskill.
+extraswings/giantsonHorizontalBarareallowed
+andwillbejudgedforexecutiononly.Extraswings F .MomentaryHolds:Amomentaryholdisdefined
+onParallelBarswillbededucted(-0.2)forahalfor asacompletestopintherequiredposition,
+emptyswingand(-0.3)forafullorintermediate butwithaholdoflessthan2seconds.Lackof
+swinginadditiontoexecutiondeductions. acompletestopwillresultinamediumerror
+deductionof(-0.2).Ifamomentaryholdisrequired
+21
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+intheperformance ofa Specified Bonus Skill and I.Spotting:Spotters must be active USA
+is notachieveda (-0.2) medium errordeduction Gymnastics professional members.Aspotteris
+willbetakenand Specified Bonus maystillbe requiredonStillRings,Vault, and Horizontal Bar.A
+awardedfortheskill. routine maynot begin until a spotteris present.
+If a spotter leavesthe apparatus duringthe
+G.Addedholds:Where continuous rhythm is performanceofa routine atanypointa (-0.2)
+required,anyadded pausesgreaterthan2 deductionwill be takenfrom the executionscore.
+secondswill betreated as rhythm errorsand Spottersareallowed but not required on Parallel
+resultina small deduction (-0.1) peroccurrence Bars. Asdefined byFIG,the presenceofa non-
+andasdefined byFIGfor pauseson Floor Exercise permittedspotter is (-0.3) and would resultinthe
+andStillRings. On Horizontal Bar inthe Horizontal deduction being taken ifspottersappearon Floor
+Bar RoutineTableswherea momentary stopis Exerciseand/orPommel Horsearea. Assisting a
+allowed,a (-0.1) deductionwill betaken ifthestop gymnastintheperformance of a skillwill resultin
+isgreaterthan2 seconds. a (-0.5)spottingdeduction. Incidental brushes or
+touchesthatdo notassistthe gymnastare allowed
+H.VideoReviewandBehavioraldeductions: withoutdeduction. Spotting maynot be performed
+Thereisnovideo review allowed exceptat from a surfacehigherthanthe landingsurface.
+championship level competitions (State
+Championships,RegionalChampionships, East/ J.CompulsoryTable:Thefollowing event pageslist
+WestNationalChampionships, Development thecompulsoryroutinesforeach levelaswell as
+NationalChampionships). Allbehavioral descriptions ofthe basicskills,Specified Bonus skill
+deductionsfollowFIGrulesand Junior Men's substitutions, notesand performancecriteria.
+Program requirements pertaining toattireand The"CompulsoryLevels3- 5& 6 Div.1"table below
+conductonthecompetitive floor. isreprintedfrom the OverviewTableshown in
+Chapter1.
+CompulsoryLevels3- 5& 6 Division1
+Division 1 &2 maynotbecombinedforthe purposeofindividualawardsonlyforTeam Awards
+ScoringBreakdown - Exception:Vault- RefertoChapter3Vault
+Minimum
+D1 BaseScore
+Level Competitive StickBonus Specified Bonus Division1
+AgeAllowed D2MaxScore
+D1Only D1Only MaxScore
+NoD2inLevel6
+3 6yrs.
+4 7yrs.
+9.0 0.1 0.9 10.0
+5 8yrs.
+6 10yrs.
+22 USAGymnastics- Men'sDevelopmentProgram -JuniorCompetitionManual May2024
+
+NATIONALTRACKCOMPULSORY ROUTINES
+FLOOR EXERCISE
+Notes:Allroutinesmaybeperformedonatumblingstripora40x40floor.
+Level3FloorExercise
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Liftarmsandkicklegup,stepforwardto
+1 Momentaryholdoflunge Nomomentaryhold(-0.2)
+lungehold
+Momentaryholdof
+2 Kicktohandstandhold Nomomentaryhold(-0.2)
+handstand
+Straightarmforwardroll,jumphurdleto Continuousrhythm Pauseof2secondsormore
+3
+cartwheel,cartwheelwith1/4turntostand throughoutsequence (-0.1)
+Tbuocdkyeedxbtaecnkdewdarfrdornotllstuoppsotrratightorhollow Noheightrequirementon
+4 Straightarmsareallowed
+backwardroll
+Lowertoarchsupportwithtoespointed
+Continuousrhythm Pauseof2secondsormore
+5 andheadup,lifttostraddlestandwith
+throughoutsequence (-0.1)
+headupandarmsextended
+Mheoamdesnttaanrdyholdof
+6 Straddledpresstoheadstandhold Nomomentaryhold(-0.2)
+Replace#6withstraddledjumpto Mhaonmdesnttaanrdyholdof
+SB1 Nomomentaryhold(-0.2)
+handstandhold(+0.3)
+Kneestochestinatight
+7 Forwardroll,tuckjumptostand
+tuck
+Replace#7withforwardroll,
+Armpositionoptionalin
+SB2 straightjumpwith1/1turntostand
+jump1/1turn
+(+0.3)
+8 Run,hurdle,round-off,reboundtostand Lessthanonerunningstep(-0.1)
+Replace#8withrun,hurdle,round-
+SB
+off,backhandspring,reboundto Lessthanonerunningstep(-0.1)
+3
+stand(+0.3)
+23
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level4 Floor Exercise
+# Skill(s)Description
+1 Run, hurdle,forward handspring
+2 Stepforwardand kickto handstand hold
+Replace#2withstepforwardand
+SB
+kickto handstandwith 360°full
+1
+pirouette(+0.3)
+Straightarm forward roll,straightlegged
+3
+sissone,stepforwardto½turn rearward
+4
+LQ
+PerformanceCriteria Notes/Deductions
+Reboundallowed
+Momentaryholdof
+Nomomentaryhold (-0.2)
+handstand
+Continuousrhythm
+Noholdofhandstand
+required
+Showcontrolof
+handstandthroughout
+Sissonewithlegssplit45°
+orgreater
+Continuousrhythm
+Kickleg upandcartwheelwith¼turn to throughoutsequence
+stand,tuckorpikestraightarm backward Backward rolldonewith
+roll,lowertoarched pronesupportwith straightarms
+headupandtoes pointed.Liftto straddle Noheightrequirementon
+standwithhead upand armsextended. backward rollbutmaygo
+throughhandstand
+Jumpfrom straddlestandtohandstand Momentaryholdof
+hold,Pikedown or rolloutwith straight handstand
+5 Nomomentaryhold (-0.2)
+armsto stand.Step(s)forwardto ½turn Lowerorrolloutsmoothly
+rearward with control
+In #4, Replacejumpfromstraddle Momentaryholdof
+SB standto handstand holdwith handstand
+Nomomentaryhold (-0.2)
+2 straddled pressto handstand hold Lowerorrolloutsmoothly
+(+0.3) with control
+Run,hurdle, round-off, backhandspring, Lessthanonerunningstep
+6
+rebound to stand (-0.1)
+Replace#6withrun, hurdle,
+SB Lessthanone running step
+round-off,backhandspring, back
+3 (-0.1)
+handspring,rebound tostand (+0.3)
+24 USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+Level5FloorExercise
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Acontrolledlandingofsaltois
+required
+1 Run,punch,saltoforwardtucked
+Lessthanonerunningstep
+(-0.1)
+Acontrolledlandingofsalto
+SB Replace#1withrun,punch,salto isrequired
+1 forwardpiked,(+0.3) Lessthanonerunningstep
+(-0.1)
+Continuousrhythm
+throughoutsequence
+Stepforwardandkicktohandstandwith Noholdofhandstand
+2
+full360°pirouette required
+Showcontrolofhandstand
+during360°fullpirouette
+Ajumppriortoheadspring
+3 Straightarmforwardrolltoheadspring,
+Sissonewithlegssplit45°or isnotallowed(-0.3)
+straightleggedsissone,stepforwardto½
+greater Acontrolledlandingof
+turnrearward
+headspringisrequired
+4 Run,hurdle,forwardhandspringstep-out, Reboundallowedonsecond
+Lessthanonerunningstep
+forwardhandspring.Straightjumpwith½ handspringfollowedbyjump
+(-0.1)
+turntostand ½turn
+Straightarmtuckorpikebackward
+extensionrollthroughhandstand,lowerto
+Continuousrhythm Pauseof2secondsormore
+5 archedpronesupportwithheadupand
+throughoutsequence (-0.1)
+toespointed.Lifttostraddlestandwith
+headupandarmsextended
+Mhaonmdesnttaanrdyholdof
+6 Straddlepresshandstandhold Nomomentaryhold(-0.2)
+Continuousrhythm
+SB Replace#6withEndorolltohandstand throughoutsequence.
+Nomomentaryhold(-0.2)
+2 hold(+0.3) Momentaryholdof
+handstand
+Pikedownorrollouttostandandkick
+Continuousrhythm Pauseof2secondsormore
+7 rearways180°tooneormoresteps,assemble
+throughoutsequence (-0.1)
+½turntostandfacingdiagonal
+Run,hurdle,round-off,backhandspring, Lessthanonerunningstep
+8
+saltobackwardtucked (-0.1)
+Replace#8withrun,hurdle,round-off,
+SB Lessthanonerunningstep
+backhandspring,backhandspring,
+3 (-0.1)
+saltobackwardtucked(+0.3)
+25
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+NATIONALTRACKCOMPULSORY ROUTINES
+Level6FloorExercise
+Note:Athletemayonlyperform3ofthe4listedSpecifiedBonusoptions
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Run,hurdle,round-off,backhandspring, Lessthan1runningstep
+1
+saltobackwardstretched (-0.1)
+Replace#1withrun,hurdle,round-
+SB Lessthan1runningstep
+off,backhandspring,saltobackward
+1 (-0.1)
+stretchedwithafulltwist(+0.3)
+Straightarmtuckorpikebackwardextension Continuousrhythm
+rollwith½turn,lowertoprone,extended throughoutsequence
+forwardroll,pikeuptohandstandhold,360° Momentaryholdof Nomomentaryhold
+2
+fullpirouettewithcontrolledpikedown, handstand (-0.2)
+straightleggedsissone,stepforwardto½ Sissonewithlegssplit45°or
+turnrearward greater
+S2B In#2replacepikeuptohandstandhold <2secondhold(-0.2)
+2secondholdofhandstand
+withEndorolltohandstandhold.(+0.3) Nohold(-0.3)
+Run,hurdle,fronthandspringstep-out,front Lessthanonerunning
+3
+handspring step(-0.1)
+4 Reboundtodiveroll Straightbodyortightarch
+S3B Replace#4withpunchsaltoforward Controlledlandingofsalto
+tucked(+0.3) required
+Pauseof2secondsor
+Continuousrhythm moreduringsequence
+Stepforwardandkick½turntoSwedishfall,
+throughoutuntilrearsupport (-0.1)eachtime
+lowertoarchedpronesupport,doubleleg
+Momentaryholdwithfull Nomomentaryhold
+5 stoopthroughtorearsupporthold.Lifteither
+extensionofbodyinrear (-0.2)
+handandturnovertopronesupport,cutone
+support <2secondholdofsplit
+legaroundthesidetofinishinsplithold.
+2secondholdofsplit (-0.2)
+Nohold(-0.3)
+<2secondholdofsplit
+Fromsplitstraddleorpikebodystraightarm (-0.2)
+2secondholdofhandstand
+presstohandstandhold,¼pirouette,straight Nohold(-0.3)
+6 Continuousrhythm
+armforwardroll,step(s)tocorner,assemble Pauseof2secondsor
+throughoutsequence
+½turntostandfacingdiagonal moreduringsequence
+(-0.1)eachtime
+Run,hurdle,round-off,backhandspring, Lessthanonerunning
+7 Straightbodyortightarch
+backhandspring,saltobackwardtucked step(-0.1)
+Replace#7withrunhurdle,round-off,
+SB backhandspring,tempowhipback Controlledlandingofsalto Lessthanonerunning
+4 saltobackward,backhandspring,salto required step(-0.1)
+backwardtucked(+0.3)
+26
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+POMMEL HORSE
+Level 3, 4& 5 on MUSHROOM /Level6 on POMMEL- LESS HORSE
+Note: Unlessotherwisespecified,allcirclesbeginandend inafrontsupport
+Level3 Mushroom
+Note:Createthesquareasdemonstratedinthediagram belowtosimulate pommels
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Stretched position
+from chesttotoeswith
+NoDLCattempted (-4.5)
+noangulardeviation in
+Hipangle(-0.1, -0.2, -0.3)
+1 Doublelegcircle thehips
+Seechartbelowfor
+Partialcompletionof
+incompletecircledeductions
+DLCdefined inchart
+below
+Following #1, add one doublelegcircle
+SB1
+(+0.3) Stretched position
+FollowingSBI,add onedouble legcircle from chesttotoeswith
+SB2
+noangulardeviation in Hipangle (-0.1, −0.2, −0.3)
+(+0.3)
+thehips
+FollowingSB2,add onedouble legcircle
+SB3
+(+0.3)
+Stretched position
+from chestto toeswith
+Nodismountattempted
+noangulardeviation in
+2 ½doublelegcirclewith ¼turn toflankdismount (-4.5)
+thehips
+Hipangle (-0.1,-0.2, -0.3)
+Flankdismountwith
+hipsathorizontal
+DoubleLegCirclePerformanceCriteria Defined
+180°
+Skill#1or#2NOTattempted deduct4.5 perSkill
+270°
+0°-179° deduct1.0 plusfall (0.5) and execution 90°
+180° -269°deduct 0.5 plusfall (0.5) and execution
+270°-359°deduct0.3 plusfall (0.5) and execution
+360/0°
+USAGymnastics–Men'sDevelopmentProgram— –JuniorCompetitionManual • May2024 27
+
+Level4Mushroom
+Note:CreatethesquareasdemonstratedinthediagramshowninLevel3tosimulatepommels
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+1 Doublelegcircle
+Stretchedpositionfrom
+dcehveisatttioontoiensthweithhipnsoangular Hipangle(-0.1,-0.2,-0.3)
+2 Doublelegcircle
+SB1mustbeperformed
+Stretchedpositionfrom
+SB Following#2,addtwo doubleleg directlyfollowingpart#2
+chesttotoeswithnoangular or
+1 circles(+0.3) andpriortoSB2 SB3
+deviationinthehips
+Hipangle(-0.1,-0.2,-0.3)
+Following#2,SB1,orSB3add½spindle SB2maybeperformed
+SB Turnsmustbeinitiatedand
+withinoneortwodoublelegcircles followingpart#2,SB1orSB3
+2 completedat90°positions
+(+0.3) Incompleteturns(-0.1,-0.2)
+Stretchedpositionfrom
+SB3maybeperformed
+SB Following#2,SB1orSB2,addtwoflaired chesttotoeswithnoangular
+followingpart#2,SB1orSB2
+3 doublelegcircles(+0.3) deviationinthehips
+Hipangle(-0.1,-0.2,-0.3)
+Legseparationof90°ormore
+Stretchedpositionfrom
+3 Doublelegcircle dcehveisatttioontoiensthweithhipnsoangular Hipangle(-0.1,-0.2,-0.3)
+Stretchedpositionfrom
+chesttotoeswithnoangular
+½doublelegcirclewith¼turntoflank
+4 deviationinthehips Hipangle(-0.1,-0.2,-0.3)
+dismount
+Flankdismountwithhipsat
+horizontal
+28
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level 5 Mushroom
+Note:Createthesquareasdemonstrated inthediagram shownin Level3tosimulatepommels
+Skill(s)Description PerformanceCriteria Notes/Deductions
+Stretched position from
+1 Twodoublelegcircles chesttotoeswith noangular Hip angle (-0.1, -0.2, −0.3)
+deviationinthehips
+Turnsmustbe initiated and Incompleteturns
+2 Czechkehre (Moore)
+completedat90°positions (-0.1,-0.2)
+Stretched positionfrom
+3 Oneormoredouble leg circles chesttotoeswith noangular Hip angle (-0.1,-0.2, −0.3)
+deviationinthehips
+SB Following#3,add a DirectStockliA Turnsmustbe initiated and Incompleteturns
+1❘(DSA) (+0.3) completedat90° positions (-0.1,-0.2)
+4 Twoormoreflaired double leg circles Legseparationof90°orgreater Hipangle (-0.1, -0.2, -0.3)
+Turnsmustbe initiatedand
+SB Replace#4with ½spindlewithintwoor Incompleteturns
+completedat 90°positions
+2 moreflaired double leg circles (+0.3) (-0.1, -0.2)
+Legseparationof90°ormore
+Stretched positionfrom
+SB Following #4orSB2, add Russian
+chesttotoeswith noangular Hip angle (-0.1,-0.2, −0.3)
+3 wendeswing with270 or360° (+0.3)
+deviation inthehips
+Stretched positionfrom
+5 Doublelegcircle chesttotoeswith noangular Hipangle (-0.1, −0.2, −0.3)
+deviation inthe hips
+Stretched positionfrom
+chesttotoeswith noangular
+½double leg circlewith4turntoflank
+6 dismount deviationinthe hips Hip angle (-0.1, -0.2, −0.3)
+Flankdismountwith hipsat
+horizontal
+USAGymnastics–Men'sDevelopmentProgram—–JuniorCompetitionManual • May2024 29
+
+Level6Pommel-lessHorse
+Note:CreatetapelinesovertheboltholesontheHorsetoindicatetheseparationoftheHorseintothreeparts
+RoutineOrder:Theroutinedoesnothavetobeperformedintheorderwrittenbuttheserulesmustbeadheredto:
+Skillsinparts3,4&5mustbeperformedindirectsuccession,TherearetwoSpecifiedBonusoptionsforSB3,only
+oneofthemmaybeincludedintheroutine.Skillsinparts1,2&6(SB1)mustbeperformedintheroutinebutinno
+particularorder.SkillsinpartsSB2,SB3AorSB3Bareallowedtobeaddedinnoparticularorder.Skillsinpart7must
+belastandacirclemustbeperformedfromfrontsupportfollowingthecompletionofanyskillpriortothedismount.
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Stretchedpositionfromchestto
+Oneormorecirclesincrosssupport
+1 toeswithnoangulardeviationin Hipangle(-0.1,-0.2,-0.3)
+frontwaysonend(frontloops)
+thehips
+Bothflairedcirclesmustbe
+performedindirectsuccession
+Twoflairedcirclesincrosssupport Stretchedpositionfromchestto
+2 Hipangle(-0.1,-0.2,-0.3)
+frontwaysonend(flairedfrontloops) toeswithnoangulardeviationin
+thehips
+Legseparationof90°orgreater
+Circleincrosssupportfrontwayswith¼
+3
+turnforwardtosidesupport Turnsmustbeinitiatedand Parts#3,#4&#5must
+completedat90°positions beperformedindirect
+succession
+4 Twodoublelegcirclesinsidesupport
+Stretchedpositionfromchestto
+Onedoublelegcircleinsidesupport toeswithnoangulardeviationin Hipangle(-0.1,-0.2,-0.3)
+5 with¼turnforwardtocrosssupport thehip Incompleteturn(-0.1,-0.2)
+rearways
+Stretchedpositionfromchestto
+Circleincrosssupportrearwaysonend
+6 ttoheeshwiiptshnoangulardeviationin Hipangle(-0.1,-0.2,-0.3)
+(backloop)
+Replace#6withcrosssupport
+SB Turnsmustbeinitiatedand
+rearways½spindlewithin Incompleteturn(-0.1,-0.2)
+1 completedat90°positions
+maximumtwocircles(+0.3)
+Stretchedpositionfromchestto
+SB AddRussianwendeswingwith270°
+toeswithnoangulardeviationin Hipangle(-0.1,-0.2,-0.3)
+2 ormore(+0.3)
+thehips
+Hipangle(-0.1,-0.2,-0.3)
+Addtravelforwardincrosssupport Stretchedpositionfromchestto
+SB Angulardeviation(skew)
+tootherend(alsoinflairs)(3/3) toeswithnoangulardeviationin
+3A (>15°-30°-0.1,>30°-45°-0.2,
+(Magyar)OR…(+0.3) thehips
+>45°-0.3)perMagyar
+Hipangle(-0.1,-0.2,-0.3)
+Addtravelbackwardincross Stretchedpositionfromchestto
+SB Angulardeviation(skew)
+supporttootherend(alsoinflairs) toeswithnoangulardeviationin
+3B (>15°-30°-0.1,>30°-45°-0.2,
+(3/3)(Sivado)(+0.3) thehips
+>45°-0.3)perMagyar
+Stretchedpositionfromchestto
+SeeRoutineOrderabove
+toeswithnoangulardeviationin
+Onecircleincrosssupportintoflankor Nocircle,deductasroutine
+7 thehips
+wendedismount compositionerror(-0.3)
+Flankdismountwithhipsabove
+Hipangle(-0.1,-0.2,-0.3)
+horizontal
+30
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+NATIONALTRACK COMPULSORY ROUTINES
+STILL RINGS
+Note:AllswingsonStillRingsshouldshowturnoverswingtechnique
+Level3Still Rings
+# Skill(s)Description Notes/Deductions
+From straightarm hang, pull uptoflexed Nomomentaryhold
+1
+arm hanghold (-0.2)
+Lowertostraightarm hang, liftkneesto <2secondhold (-0.2)
+2
+hangingtuckpositionhold Nohold(-0.3)
+SB Replace#2with lowertostraightarm <2second hold (-0.2)
+1 hang,liftlegsto hanging "L"hold (+0.3) 2 second holdofhanging "L" Nohold (-0.3)
+Shootlegsout,swing backward,swing
+3
+forward
+4 Swingbackward,swingforward
+LO
+PerformanceCriteria
+Headbetweenthe ringson
+flexedarm hang
+Momentaryholdofflexed arm
+hang
+2second holdofhanging tuck
+Swingbackwardto45° below
+horizontal
+Swingbackward to45° below
+horizontal
+Swing backwardto45°below
+Swing backward,swingforward tostraight horizontal Nomomentaryhold
+5
+bodyinverted hang hold Momentaryhold ofstraight (-0.2)
+bodyinvertedhang
+Momentaryhold ofpiked Nomomentaryhold
+6 Lowerlegsto piked inverted hang hold
+inverted hang (-0.2)
+Following#6,extend bodyto hanging
+SB Momentaryholdofhanging Nomomentaryhold
+scalerearwayshold (backlever)
+2 scalerearways (-0.2)
+(+0.3)
+<2second hold (-0.2)
+7
+LowertoGerman hang hold (skin-the-cat) 2second hold ofGerman hang No hold(-0.3)
+Momentaryhold ofpiked body
+Following#7, pulloutofGerman hang invertedhang
+SB to piked bodyinverted hang holdand Nomomentaryhold
+Noholdrequired onsecond
+3 lowerthroughGerman hang (skin- (-0.2)
+Germanhang butit mustshow
+the-cat) (+0.3)
+full extension priortorelease
+8 Releasehandsanddropto stand
+USAGymnastics–Men'sDevelopmentProgram—–JuniorCompetitionManual • May2024 31
+
+Level 4Still Rings
+Skill(s)Description
+From straightarm hang (false grip
+allowed), muscleuptosupport
+1
+WITH spotterassistanceandwithas
+straighta bodyas possible
+2
+3
+4
+LO
+PerformanceCriteria Notes/Deductions
+Slightpikeinhipspermitted
+In #1 perform muscleup
+SB
+WITHOUTspotterassistance Slight pikein hips permitted
+1
+(+0.3)
+2second holdofsupport
+Straightbody, straightarm support <2secondhold (-0.2)
+Ringsturned outandarmsfreeof
+hold Nohold(-0.3)
+straps
+2second holdof"L"support
+SB Replace #2 lift legsto"L" hold Ringsturnedoutandarmsfreeof <2secondhold (-0.2)
+2 (+0.3) straps Nohold(-0.3)
+Hips betweenrings
+Roll backwardtopiked body Continuousrhythm throughout
+invertedhang Bentarmsallowed
+Following#3,add extend body
+SB 2second hold ofhanging scale <2secondhold (-0.2)
+horizontallyto hanging scale
+3 Nohold(-0.3)
+rearwayshold(backlever) (+0.3) rearways
+LowertoGerman hang hold (skin-
+Momentaryhold ofGerman hang Nomomentaryhold(-0.2)
+the-cat).
+Pulloutto piked inverted hangand Swingbackwardto45° below
+5
+castforwardto swing backward horizontal
+6 Swingforward,swing backward Swingbackwardto horizontal
+7 Swingforward,swing backward Swing backward to horizontal
+Swingforwardto salto backward Showslightriseinsalto
+8 Norise(-0.2)
+tuckeddismount Bentarmsallowed
+32 USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+Level 5 Still Rings
+Skill(s)Description PerformanceCriteria Notes/Deductions
+From straightarm hang,straightarm piked Pullwithstraightarms, bent
+1
+bodypull directlyto piked inverted hang body
+Following#1 extend bodyhorizontallyto
+SB 2secondholdof hanging scale <2secondhold (−0.2)
+hangingscalerearwayshold (backlever)
+1 rearways Nohold(-0.3)
+(+0.3)
+Momentaryhold
+LowerslowlytoGerman hang hold (skin-the-
+Momentaryholdofboth German mustshowstop
+2 cat), pulloutand extend to straight body
+hangandinverted hang
+Nomomentary
+invertedhang hold.
+hold (-0.2)
+3
+Compresstoatightpikeanddislocatebackwards Straightbodyathorizontalorhigher
+on dislocate
+4 Swingforward,swing backward Swingbackwardtohorizontal
+Arm bend not
+Swingforward,swing backwardtouprise Bentarmsallowedonuprise
+5 OL
+backwardtosupport backward
+greaterthan 90
+degrees
+2second hold of“L” <2second hold
+6 Liftlegsto "L"hold Ringsturnedoutandstraight (-0.2)
+armsfreeofstraps Nohold(-0.3)
+2second hold ofshoulderstand <2second hold
+7 Pike pressto shoulderstand hold Straightbodyshoulderstand, (-0.2)
+rings parallel,armsfree ofstraps|Nohold (-0.3)
+Momentaryhold ofhandstand Nomomentary
+Replace#7with bentorstraightarms, bent Rings turned outon handstand hold (-0.2)
+SB
+bodypressto handstand hold,lowerto 2second hold ofshoulderstand <2second hold
+2
+shoulderstand hold (+0.3) Straight bodyshoulderstand, (-0.2)
+rings parallel,armsfreeofstraps |Nohold (-0.3)
+Note:InSB2,feet may be onthe inside ofthe cablesinthe handstand and during the lowerdown
+(nobonus awarded iflegsorfeetwraparound ortouch theoutside ofthecables), maximum
+executiondeduction of(-0.3)takenforachieving the handstand inSB2 additionaldeductions ifthe
+gymnastfallsordoes notholdthe2 skills.
+8 Bailforward, swing backward Swing backwardto horizontal
+9 Swingforward,swing backward Swingbackwardto horizontal
+Inlocatestraightwithcontinuous
+SB Following#9add inlocatestraight,swing rhythm andturnovermustshow Failuretoshowany
+3 backward (+0.3) rise rise(-0.2)
+Swing backward tohorizontal
+Swingforwardtosalto backwardtuckedor Hipsatring height
+10
+stretched dismount Bentarmsallowed
+USAGymnastics–Men'sDevelopmentProgram—–JuniorCompetitionManual • May2024 33
+
+Level6StillRings
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Fromstraightarmhang,bentarm Pullwithstraightbody,bent
+1 Nobendinhipspermitted
+straightbodypulltoinvertedhang armsallowed
+Swingbackwardtoabove
+horizontal
+2 Swingbackward,swingforward
+Swingforwardtocandlestick
+withrise
+Inlocatestraightwithcontinuous
+3 Swingbackwardstoinlocatestraight rhythmandturnover Failuretoshowanyrise(-0.2)
+Inlocatemustshowrise
+Straightarmbackuprise
+Uprisebackwardwithstraightarms 2secondholdof“L”support <2secondhold(-0.2)
+4
+to”L”supporthold Straightarmsandringsturned Nohold(-0.3)
+out
+Following#4presstohandstand 2secondholdofhandstand
+SB <2secondhold(-0.2)
+hold.Lowertostraddle”L”hold (cablesallowed)
+1 Nohold(-0.3)
+(+0.3) 2secondholdofstraddle“L”
+Note:InSB1,feetmaybeontheinsideofthecablesinthehandstand(nobonusawardediflegsorfeet
+wraparoundortouchtheoutsideofthecables),maximumexecutiondeductionof(-0.3)takenfor
+achievingthehandstandinSB1additionaldeductionsifthegymnastfallsordoesnotholdthe2skills.
+<2secondhold(-0.2)
+5 Presstoshoulderstandhold 2secondholdofshoulderstand
+Nohold(-0.3)
+6 Bailforward
+Straightbodyonupriseto
+Following#6swingbackwardto
+SB shoulderstand
+shoulderstandhold,bailforward Nomomentaryhold(-0.2)
+2 Momentaryholdofshoulder
+(+0.3)
+stand
+7 Swingbackward,swingforward
+Oneortwodislocatesbackward
+8 Straightbodydislocatewithrise Failuretoshowanyrise(-0.2)
+straight
+Swingforwardtosaltobackward
+9 Hipsatringheight
+tuckedopendismount
+Maximumdeductionforexecution
+SB Replace#9withdoublesalto +landing(-0.2),exceptafall.For
+3 backwardtuckeddismount(+0.3) falldeduct(-0.5)andnobonus
+awarded
+34
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+NATIONALTRACK COMPULSORY ROUTINES
+VAULT
+Notes:TheJuniorMen'sCompulsoryprogram willnotgive azeroforan attemptedvault. A minimum score
+of1.0willbeawarded.A 'balked"attemptorunrecognizable vault, (i.e., differentvault) maybe repeatedwith
+a1.0deductionfromthefinalscore.Abalkedvaultisdefinedasfollows: 1. Theathletestopspriortotouching
+thevaultingboardorrunsbythevaulting board.2. Theathletepushesfromthefeetoffthevaultingtable
+Nothirdattemptisallowed.A2ndattemptmaybeawardedatthediscretionofthejudge.
+VaultJudging Criteria
+EvaluationGuidelines:Thecompulsory program is integralto establishing propertechnique in execution of
+aspectsoftherun,approach,board position and blockposition ifa gymnastisto progresssuccessfullytohigher
+levelsofcompetition.Thetable belowenumeratesspecific deductionsthatcan betaken in orderto promote
+consistentevaluationand correcttechnique. All otherdeductionsforexecutionare pertheFIGCodeofPoints.
+TableofSpecificErrorsandDeductionsforVault:Levels3– 6
+CompulsoryVaultScoring:Level3- 5* Base StickBonus Μαχ
+Level3,4& 5 9.9 0.1 10.0
+Yamashita 9.9 0.1 10.0
+Level6
+Handspring 9.6 0.1 9.7
+DelineationofErrors Small Medium Large
+RunDeductions(AllLevels)
+Runslowsdown before hurdle, insufficientvelocityoracceleration 0.1 0.2 N/A
+Improperarm positionand swingaction notcomplementarytothe run 0.1 0.2 N/A
+Nodistinct liftoffront knee and extension ofbackleg 0.1 0.2 N/A
+Rhythm breakduring run (stutter-steps) orinsufficient stride 0.1 0.2 N/A
+HurdleDeductions (AllLevels)
+Hurdledoesnot stayon level planeaskneeslift,insufficient kneelift 0.1 0.2 N/A
+Feetarebehind hipson initial contactwithspringboard 0.1 0.2 N/A
+Armsoverhead orarm swing notexecuted from backtofront 0.1 0.2 N/A
+Bodynotatvertical uponcompletion ofboard contact 0.1 0.2 N/A
+FlightDeductions(Levels3&4)
+Lackofdistinctliftorrisefrom springboard 0.1 0.2 0.3
+FirstFlight(Pre-flight) Deductions (Levels5&6)
+Diving orinsufficient rotationtothe blocking surface 0.1 0.2 0.3
+Bodypositiontooarchedor piked 0.1 0.2 0.3
+All otherdeductionsperFIG 0.1 0.2 0.3
+SecondFlight(Post-flight) Deductions (Levels5&6)
+Repulsion notwithin 0°- 15°ofvertical 0.1 0.2 0.3
+Lackofdistinct liftorrisefrom blocking surface 0.1 0.2 0.3
+Lackoftightbody positionfrom blocking surface 0.1 0.2 0.3
+LandingDeductions (AllLevels)
+All landingdeductionsare per FIGwith modifications asstated inthe"Fundamental Elementsofthe
+CompulsoryLevels" paragraph "E. Documents ofPrecedence"
+— •
+USAGymnastics–Men'sDevelopmentProgram–JuniorCompetitionManual May2024 35
+
+Level3Vault- StraightJump
+Skill(s)Description PerformanceCriteria Notes/Deductions
+Runmustmaintainvelocity
+Run: Distinctliftoffrontlegand
+1 From a maximumdistanceof60' extensionofbackleg
+(18.3m) Rhythmic movementofflexed
+armsin run
+Hurdle:
+Bodyatvertical upon contactwith
+Liftkneesupwardwhile body's
+thespringboard
+2 centerofgravity remains leveland See"TableofSpecificErrors
+Arm swingfrom backtofront
+feetextendforwardtocontactthe and DeductionsforVault"
+during hurdle
+springboard infrontofthe body fora listingofpossible
+deductions
+StraightJump: Fullextension ofarmstovertical
+3 Punchverticallyoffthe springboard abovehead
+withstraightbody Legsstraightthroughoutflight
+4 Landing
+36 USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+Level4Vault-SaltoForwardTucked
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Runmustmaintainvelocity
+Run: Distinctliftoffrontlegand
+1 Fromamaximumdistanceof60’ extensionofbackleg
+(18.3m) Rhythmicmovementofflexed
+armsinrun
+Hurdle:
+Bodyatverticaluponcontactwith
+Liftkneesupwardwhilebody’s
+thespringboard
+2 centerofgravityremainsleveland
+Armswingfrombacktofront See“TableofSpecificErrors
+feetextendforwardtocontactthe
+duringhurdle andDeductionsforVault”
+springboardinfrontofthebody
+foralistingofpossible
+deductions
+FrontSaltoTucked: Armsreachupwardabove
+3 Punchverticallyoffthespringboard shouldersandforward
+andcompleteafrontsaltotucked Handsgrasplegsintighttuck
+4 Landing
+37
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level5Vault-ForwardHandspring
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Runmustmaintainvelocity
+Run: Distinctliftoffrontlegand
+1 Fromamaximumdistanceof82’ extensionofbackleg
+(25m) Rhythmicmovementofflexed
+armsinrun
+Hurdle:
+Bodyatverticaluponcontact
+Liftkneesupwardwhilebody’s
+withthespringboard
+2 centerofgravityremainsleveland
+Armswingfrombacktofront
+feetextendforwardtocontactthe
+duringhurdle See“TableofSpecificErrors
+springboardinfrontofthebody
+andDeductionsforVault”
+foralistingofpossible
+Firstflight(pre-flight): deductions
+Rotatequicklytohandcontact
+Rotatefromthespringboardto
+3 positiononthevaulttableslightly
+straightortightlyarchedextension
+beforevertical
+atvertical
+Secondflight(post-flight): Verticalblockfromvaulttable
+4 Blockatverticalfromthevaulttable Showdistinctrise
+withstraightbody Straightbodythroughout
+5 Landing
+38
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level 6Vault- Forward Handspring orYamashita
+Skill(s)Description PerformanceCriteria Notes/Deductions
+Runmustmaintainvelocity
+Run: Distinctliftoffrontlegand
+1 From a maximum distanceof60' extensionofbackleg
+(18.3m) Rhythmic movementofflexed
+armsin run
+Hurdle:
+Bodyatvertical upon contactwith
+Liftkneesupwardwhile body's
+thespringboard
+2 centerofgravityremainsleveland
+Arm swingfrom backtofront
+feetextendforwardtocontactthe
+during hurdle
+springboard infrontofthe body
+See"TableofSpecific Errors
+Firstflight (pre-flight): Fullextensionofarmstovertical
+andDeductionsforVault"
+Rotatefromthespringboardto abovehead
+3 fora listingofpossible
+straightortightlyarched extension Legsstraightthroughoutflight
+deductions
+atvertical Showdistinctrise
+Vertical blockfrom vaulttable
+Show distinctrise
+Secondflight (Post-flight) Phase: Handspring:Straightbody
+4 Blockatverticalfrom thevault throughout
+tablewithstraightbody Yamashita:vertical blockfrom
+table,situpto pike position,then
+kickout
+L5 O Landing
+USAGymnastics–Men'sDevelopmentProgram—–JuniorCompetitionManual • May2024 39
+
+NATIONAL TRACK COMPULSORY ROUTINES
+PARALLEL BARS
+Notes:Extraswingsarenotpermittedexceptwherespecificallynotedintheroutinetable.Aspringboardor
+additionalmatsmaybeusedtomount.Ifaspringboardisusedbetweentheuprights itmustbe removed
+immediatelyafterthemount.
+Level3 Parallel Bars
+Note:Anycombinationofmatsandspringboardmaybeusedtoelevatethe mountingsurface.
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Springboardnotremovedfrom
+From stand,jumptosupport Swingforwardand backwardwith
+1 betweentheuprightsimmediately
+swingforward,swing backward feetat barheight
+afterthemount. (-0.2)
+Replace#1 with from stand, <2secondhold (-0.2)
+jumptosupportandpress Nohold (-0.3)
+SB totuckedPlanche hold, Swingforwardand backwardwith Criteriafortucked Planchehold
+1 extend legs backwardto feetatbarheight 0°-15°from horizontal (-0.1)
+supportswingforward, swing 15°-45°from horizontal (-0.2)
+backward (+0.3) >45°from horizontal (no bonus)
+Swingforwardtostraddled Extended bodyin rearsupportwith
+2
+supporton bars straightlegs
+Hipsshould be in linewithorforward
+Liftlegsintoaforward
+3 ofhands Nomomentaryhold (-0.2)
+straddled"L"hold
+Momentaryholdofstraddled "L" hold
+<2secondhold (−0.2)
+Nohold(-0.3)
+Replace#3with lift legs into 2 secondhold ofstraddled "V" hold
+SB aforwardstraddled "V" hold Hips should beinlinewith orforward Criteriafor straddled "V" hold
+2 0°-15°fromvertical (−0.1)
+(+0.3) ofhands
+15°-45°from vertical (-0.2)
+>45°from vertical (no bonus)
+Bring legstogetherand extend
+4
+forwardtostraightbody
+Swingbackward andforwardwith
+5 Swingbackward, swingforward
+feetatbarheight
+Swing backwardtohorizontal Swing
+6 Swingbackward, Swingforward
+forwardwithfeetatbarheight
+Swingbackwardand dismount Swing backwardtohorizontal Gymnastmaynot holdontothe
+7 betweenthebars/matsorover |Moving a hand tothe dismount bar baron landingthedismount
+eitherbartostand. isallowed (-0.2)
+Replace#7withswing back-
+Nomomentaryhold (-0.2)
+wardtohandstand holdand Momentaryholdofhandstand
+SB Gymnastmaynot hold ontothe
+dismountbetweenthe bars/ Moving a handtothe dismountbar
+3 baronlanding the dismount
+matsorovereither barto isallowed
+(-0.2)
+stand (+0.3)
+40 USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+Level4 Parallel Bars
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+From standorshort run,jumpto Longhangswing forwardto45° Bentkneesallowedon
+1
+longhangswingforward belowhorizontal forwardswing
+Straightlegsrequiredatpeakof
+Long hangswing backward, long longhangswing backward Bentkneesallowedon
+2
+hangswingforward Long hangswing forwardto45° forwardswing
+belowhorizontal
+Long hangswing backward to45°
+Longhangswing backward,uprise belowhorizontal
+3
+toupperarm hang Straightlegsrequiredat peakof
+swingbackward
+Upperarm swingsforwardand
+Upperarm swingforward, upper
+4 backwardwithshoulders evenwith
+arm swing backward
+elbows
+Upperarm swingforwardto Straightlegsrequired
+5 straddledfront uprisetosupport Finishwitharmsstraightand hips
+andimmediatelyliftlegsoffbars extended
+Replace #5with upperarm swing|Finishwith straightbodyand
+SB
+forwardtoforward upriseto straightarms
+1
+support(+0.3) Feetatbarheight
+Swing backwardwithfeetatbar
+6 Swing backward
+height
+Hipsshouldbe in linewithor
+<2secondhold(-0.2)
+7 Swingforwardto"L" hold forwardofhands
+Nohold(-0.3)
+2second holdof"L"
+<2secondhold(-0.2)
+Nohold(-0.3)
+Criteriafor"V" hold
+SB Replace#7withswingforwardto
+2 second hold of"V"or Manna hold 0° – 15°from vertical (-0.1)
+2 "V"orManna hold (+0.3)
+15°-45°from vertical (-0.2)
+>45°from vertical (no
+bonus)
+From hold,extend forward toswing Swing backwardwithfeetat bar
+8
+backward height
+Swingforwardand backwardto
+9 Swingforward,swing backward
+horizontal
+Swingforward,swing backwardto Swingforwardtohorizontal Nomomentaryhold(-0.2)
+10 handstandholdandpushoffeither Momentaryholdofhandstand Barnotreleased on landing
+sidetostand Movinghandtodismountbarallowed the dismount (-0.2)
+Replace#10withswingforward,
+Swingforwardtohorizontal
+SB swing backwardto handstand Barnotreleasedon landing
+2second holdofhandstand.
+3 holdandpushoffeithersideto thedismount(-0.2)
+Movinghandtodismountbarallowed
+stand (+0.3)
+USAGymnastics–Men'sDevelopmentProgram— –JuniorCompetitionManual • May2024 41
+
+Level 5 Parallel Bars
+Note:A“handonhand”spotispermittedforanybailfromsupporttoa longhangswing.Agymnasttootalltoswing
+throughthebottom withouthittingmayreplacethe bailtoMoyfinishingin upperarmwithcasttoupperarmhang.
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+From standorshort run,jumptoglide
+1 Glide kipwithstraightarms
+kiptosupport
+Swing backward andforwardto
+2 Swing backward,swing forward
+horizontal
+Bentkneesareallowed on
+thebailtoMoy
+SwingbackwardandbailtoMoy
+3 Swing backwardto horizontal SeeNotesabove
+finishinginupperarm support
+Nodeductionforallowable
+spot
+Replace#3withswingbackwardand
+SB bailtoMoytosupport,swing backward
+1A andlayawaytoupperarm support, Swing backwardand bailto OnlyoneoftheSB1AorIB
+upperarm swingforward (+0.3)or... horizontal skillsmayreceive bonus
+Replace#3withswing backwardand "Hand-on-hand"spotallowed credit.
+bailtogiantswing backward tosup- Bentkneesareallowedonthe Nodeductionforallowable
+SB
+port,swingforward,swing backward, bail spot
+1B
+layawaytoupperarm support, upper
+arm swingforward (+0.3)
+Shouldersevenwithelbows <2secondhold (-0.2)
+4 Upperarm swing backward
+Hipsatbarheight Nohold(-0.3)
+Upperarm swingforwardto straddled Straightlegsrequired
+5 frontuprisetosupportand immediately |Finishwitharmsstraightand
+liftlegsoffbars hipsextended
+Replace#5with upperarm swing Finishwithstraightbodyand
+SB
+forwardtoforward uprisetosupport straightarms
+2
+(+0.5) Feetatbarheight
+Swing backwardwithfeet at bar
+6 Swing backward
+height
+Hipsinlinewith hands
+Swingforwardto"L"hold,lift legsand 2secondholdof"L" <2secondhold(-0.2)
+7
+extendforwardandswing backward Swing backwardwithfeetat bar Nohold (-0.3)
+height
+Replace#7with swingforward, <2secondhold(-0.2)
+SB 2second holdofstraddle"L"
+swing backwardtostraddle"L" hold Nohold(-0.3)
+3 Momentaryholdofhandstand
+and pressto handstand hold (+0.3) Nomomentaryhold (-0.2)
+Swingforwardand backwardto
+8 Swingforward,swing backward
+horizontal
+Swingforward,swing backwardto
+9 Swingforwardto horizontal
+handstand
+Emptyswing allowed before
+Swingforwardto½turnand postonone Swing forwardto horizontal
+dismount
+10 arm oversingle barand dismountto Land paralleltohand placement
+Barnotreleased on landing
+stand (Stützkehrforward movement) on bars
+thedismount (-0.2)
+42 USAGymnastics-Men'sDevelopmentProgram-JuniorCompetitionManual May2024
+
+Level 6 Parallel Bars
+Note:A“handonhand”spotispermittedforanybailfromsupporttoalonghangswing.Agymnasttootalltoswing
+throughthebottom withouthittingmayreplacethebailtoMoyfinishinginupperarmwithcasttoupperarmhang.
+Skill(s)Description PerformanceCriteria Notes/Deductions
+From standorshortrun,jumptoglide Glidekipwithstraightarms
+1
+kiptosupport
+Swing backwardandforwardto
+2 Swing backward,swing forward
+horizontal
+Swingbackwardand bailtoMoy Swing backwardto horizontal Bentkneesareallowedon
+finishinginupperarm support. Upper "Hand-on-hand"spotallowed thebailtoMoy
+3
+arm swing backwardto backward Shouldersevenwith elbows SeeNotesabove
+uprisetosupport Hipsatbarheight Nodeductionforallowablespot
+Replace#3with swingforward,
+SB swing backwardand bailto straight
+1A arm giantswing backwardto
+support (+0.3) or... OnlyoneoftheSBIA,IBor
+Swing backwardabove horizontal ICskillsmayreceive bonus
+Replace#3withswingbackward
+SB "Hand-on-hand"spotallowed credit.
+and bailtostraightleg Moyto
+IB Bentkneesallowed on bailforSBIA Nodeductionforallowable
+support,swingbackward (+0.3), or.
+spot
+Replace#3with swing backward
+SB
+and bail to basket (peach) to
+IC
+support(+0.3)
+<2secondhold (-0.2)
+4 Swingforwardto "L"hold Hipsinlinewith hands
+Nohold(-0.3)
+From "L"hold,extend forwardto
+5 2second hold of"L"
+swing backward
+Replace#5withfrom "L"hold
+SB <2second hold (-0.2)
+straddle pressto handstand hold 2second holdofhandstand
+2 Nohold (-0.3)
+(+0.3)
+Earlyorlatedropallowed into
+Swingforward,swing backwardto
+6 basketdrop.Hipsatbarheighton
+basketdropto undershootforwardto
+undershootforward
+Longhang swing backwardtoback
+7
+uprisetoupperarm support
+Upperarm swingforwardand
+8 backwardtoswing forwardtoforward Hipsin linewith hands
+uprisetosupport,swing backward
+Swingforward,swing backward,
+<2second hold (-0.2)
+9 swingforward,swing backwardto 2second hold ofhandstand
+Nohold(-0.3)
+handstand hold
+Following#9swingforward,swing Swingforwardto hipsatshoulder height
+SB
+backwardto½pirouetteto handstand |Pirouettemustshowcontrolof
+3 (forwardorbackward) (+0.3) handstandposition
+Swingforwardtosalto backward Swingforwardand backwardwith hips
+dismount atshoulderheight
+Extra swing allowed before
+10 or Saltomaybetucked, piked orstraight
+salto backward
+Swingforward,swing backwardto Saltoforwardpiked orstraightwith 2
+saltoforwarddismount turnallowed
+USAGymnastics- Men'sDevelopmentProgram-—JuniorCompetitionManual • May2024 43
+
+NATIONALTRACKCOMPULSORY ROUTINES
+HORIZONTAL BAR
+Note:Allunderswingsforwardshouldbeperformedastapswings.
+Level3HorizontalBar
+Note:Thegymnastisrequiredtoperformallskillswithstraightlegsifthecompetitionbarprovidedis
+highenough.Otherwisethegymnastmaybendhiskneesduringallhangingskills. Facilitieswithlimited
+equipmentmayuseanybaravailabletothemsuchasthelowunevenbarrail,parallelbarswithonerail
+removed,and/oralowhorizontalbar.
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Fromahanginovergrip,hanging
+Continuousrhythmand
+1 ½turntomixedgrip,change
+hollowbodythroughout
+secondhandtoovergrip
+Pullovertosupportwithspotter Malolmoewnetdarystopinsupportis
+2 Momentarystop>2seconds(-0.1)
+assistance
+In#2performpullovertosupport Continuousrhythminpullover
+SB
+WITHOUTspotterassistance Momentarystopinsupportis Momentarystop>2seconds(-0.1)
+1
+(+0.3) allowed
+aUnnddesrtsrhaoioghttwairthmshollowbody Pumpswingnotresultinginacast
+3 Casttoundershootforward
+(-0.2)eachtime
+Replace#3withcasttoback
+SB Backhipcirclewithstraight
+hipcirclepriortoundershoot
+2 body
+forward(+0.3)
+Swingbackward,tapswing
+4
+forward Swingbackwardandforward
+to45°belowhorizontal
+Swingbackward,tapswing
+5
+forward
+Hopwithsimultaneoushand
+Swingbackwardandupriseto
+releaseandregrasp
+6 hopwithbothhands,tapswing Nohop(-0.3)
+Swingbackwardandforward
+forward
+to45°belowhorizontal
+Swingbackward,tapswing
+7
+forward Swingbackwardandforward
+Swingbackward,tapswing to45°belowhorizontal
+8
+forward
+Swingbackwardtoupriseand
+9 Shouldersatbarheight
+releasehandsdismountingtostand
+Replace#9withswing
+backward,tapswingforward
+SB Noheightrequirementon½turn. Bothhandsnottouchingthebarto
+to½turntouchingthebarwith
+3 Mustturninhollowbodyposition finish½turn(-0.2)
+bothhands,thendroppingto
+stand(+0.3)
+44
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level4HorizontalBar
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Malolmoewnetdarystopinsupportis Momentarystop>2seconds
+1 Fromhanginovergrippullovertosupport
+(-0.1)
+Casttohorizontal
+Casttobackhipcircletoundershoot Backhipcirclewithstraightbody Pumpswingnotresultingina
+2
+forward Undershootwithhollowbody cast(-0.2)eachtime
+andstraightarms
+Casttohorizontal
+Freehipwithhollowbodyand
+S1B Replace#2withcasttofreehipcircle Noanglerequirementforfree
+hipsclearofthebar
+toundershootforward(+0.3) hipcircle
+Undershootwithhollowbody
+andstraightarms
+Swingbackwardandforward
+Swingbackward,tapswingforwardwith to45°belowhorizontal
+3
+½turntomixedgrip Maintainhollowbodyshape
+during½turn
+Tapswingforward,swingbackwardand
+4
+changehandtodoubleovergrip
+Maximumdeductionfor
+Noextraswingallowedbefore
+executionandspotting,
+kip
+5 Swingforwardandkiptosupport. exceptfall(-0.3)
+Momentarystopinsupportis
+Momentarystop>2seconds
+allowed
+(-0.1)
+Casttohorizontal
+Pumpswingnotresultingina
+6 Casttoundershootforward Undershootwithhollowbody
+cast(-0.2)eachtime
+andstraightarms
+In¾giantswingbackward
+Following#6,addswingbackward, Continuousrhythm
+(hipsbrushingbar)oragiant
+SB tapswingforwardto¾giantswing Minimalcontactwithbar
+swingbackwardstosupport
+2 backwardtoundershootforward allowed
+(freeofbar)isallowed.
+(+0.3) Bentarmsallowed
+Nodeductionforbentarms.
+7 Swingbackward,tapswingforward
+Swingbackwardandforward
+to45°belowhorizontal
+8 Swingbackward,tapswingforward
+Swingbackwardtoupriseandrelease
+9 Shouldersatbarheight
+handsdismountingtostand
+Saltomaybetucked,pikedor Aspotterisrequiredtofollow,
+Replace#9withswingbackward,
+SB straight butnotassist,thegymnast
+tapswingforwardtosaltobackward
+3 Saltobackwardwithhipsat duringthesaltobackward
+dismount(+0.3)
+barheight Spotternotpresent(-0.2)
+45
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level 5 Horizontal Bar
+Skill(s)Description PerformanceCriteria Notes/Deductions
+Continuousrhythm
+From hang in undergrip pulloverto
+1 Momentarystop insupportis Momentarystop > 2 seconds (-0.1)
+support
+allowed
+Castforwardto¾giantswing Castto horizontalwith full Pumpswing not resulting in a cast
+2
+forward extensionofbody (-0.2)eachtime
+Pumpswing not resulting in a cast
+Replace#2with castforwardto (-0.2)eachtime
+SB Castto horizontalwith full
+oneormoregiantswingsforward Maximum executiondeductionfor
+1 extensionofbody
+to%giantswingforward (+0.3) giantswingsexceptfall (-0.3)
+Fallfrom bar(-0.5)
+Hopboth handssimultaneouslyto
+3 Hollowbody
+doubleovergrip
+Tapswingforwardwith½turnto mixed Maintain hollowbodyshape
+4
+grip,tapswingforward inmixed grip during ½turn
+Swing backward in mixed grip,
+5
+changehand todouble overgrip
+Momentarystopin support is Noextra swing allowed before kip.
+6 Swingforward,kiptosupport
+allowed Momentarystop >2 seconds (-0.1)
+Pumpswing not resulting ina cast
+7 Castto%giantswing backward Castto horizontal
+(-0.2)eachtime
+Castto horizontal IfSB2andSB3areboth performed,
+Replace#7withcasttofree hip
+SB Fullextension ofbodyat replace#7withcasttofreehip
+circle,swingforward to ¾giant
+2 horizontalatcompletionof circle,twogiantswingsbackward
+swing backward (+0.3)
+thefreehipcircle and giantswing backward (+0.6)
+Maximumexecutiondeductionfor
+giantswingsexceptfall (-0.3)
+Fall from bar(-0.5)
+Replace#7withcasttotwo giant
+SB
+swingsbackward and 3%giant Castto horizontal In4giantswing backward (hips
+3
+swing backward (+0.3)
+brushingbar)oragiantswing
+backwardstosupport (freeofbar) is
+allowed.
+Undershoottoswing backward Undershootwithhollow body Additionaltapswingforward,
+or andstraightarms
+8 swing backwardallowedwithout
+Undershoottoswing backward, Swingforwardand backward
+deduction
+tapswingforward,swing backward tohorizontal
+Salto maybetucked, pikedor
+Tapswingforward to salto backward straight
+9
+dismount Salto backwardwith hipsat
+barheight
+46 USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+Level6 Horizontal Bar
+# Skill(s)Description PerformanceCriteria Notes/Deductions
+Continuousrhythm in pullover
+From hang in undergrippulloverto Momentarystopinsupportis
+Momentarystop >2 seconds
+1 support, castforward to oneormore allowed
+(-0.1)
+giantswingsforward Casttohandstandwithfull
+extensionofbody
+34giantswingforwardwith hopto
+Hopto45°orhigher
+overgrip,swing½turn,swing forward Anygrippermittedfor½turn
+2 Noamplitude requiredon ½
+andkiptosupport,stopand changeto andkip
+turn
+doubleovergrip,cast
+Replace#2with3/4front giantswing
+SB
+forwardwith hoptoovergrip,onegiant Hopto45°orhigher
+1
+swingbackward (+0.3)
+3 Freehipcircle Freehipcircleto45°orhigher
+4 Oneormoregiantswings backward
+Following#4giantswing backward
+SB
+with ½turnto doubleovergrip, one giant ½turnto45° orhigher
+2
+swingbackward (+0.3)
+4giantswing backwardto undershoot,
+Momentarystop >2 seconds
+5 swingbackwardto backupriseto
+(-0.1)
+support
+Changebothhandsto undergrip,cast
+6
+to handstand
+7 Twogiantswingsforward
+Giantswingforwardwith½turn
+8
+(Pirouette)
+Straightarmsand hips
+34giantswing backwardto undershoot
+9 throughoutundershoot
+andswing backward
+Backwardswing to horizontal
+Salto maybetucked, pikedor
+Tapswing forwardtosalto backward
+10 straight
+dismount
+Saltowithhipsat barheight
+Replace#9and #10withoneor Saltomaybetucked, pikedor
+SB
+moregiantswings backward tosalto straight
+3
+backwarddismount (+0.3) Saltowithhipsat barheight
+USAGymnastics–Men'sDevelopmentProgram—–JuniorCompetitionManual • May2024 47
+
+Chapter 4
+NATIONAL TRACK JuniorNational
+Division
+OPTIONAL PROGRAM
+Level7,8,9&10
+FundamentalElementsofthe someelementgroupsarelistedinthe‘Tableof
+OptionalTrack ElementGroupsandRulesforLevel8’.
+Additionally,Level8athletescompetePommel
+Horsewithoutpommelsandtherulesforthis
+A .OptionalLevelsOverview
+modifiedeventcanbefoundinthePommel-less
+Coachesshouldtakeitastheirprofessional
+HorseJuniorCodeofPoints.Thedesignofthis
+responsibilitytoplanthedirectionoftheir
+eventisintendedtopromotethedevelopmentof
+athletes’developmentwiththegoalsofferedin
+awiderepertoireofskillsthatcanbeadaptedto
+theNationalTrackOptionalPrograminmind.
+thepommelhorsewhenthegymnastadvances
+Therefore,weencourageallcoachestobecome
+inageand/orability.Removingthepommelsfrom
+familiarwiththeFIGCodeofPointsfromthe
+thehorse,promotesthemasteryofcircleand
+outsetoftheirprofessionalcareer.Whether
+flairtechniquewhileencouragingdevelopment
+coachingatthecompulsorylevelortheoptional
+ofnewskills.Level8makesavailableasomewhat
+level,developmentofoptionalskillsandtheir
+widerrangeofskillsfromtheLevel6pommel-
+foundationalprogressionsshouldstartata
+lesshorseroutinesandprovidestheflexibilityfor
+youngageinordertogivetheirathletesthebest
+unlimitedoptionalroutineconstruction.Thiscan
+opportunityforsuccessatthehighercompetitive
+beviewedasthebasisforanathlete’sroutine
+levels.
+constructionasheadvancesthroughhigherlevels
+ofcompetition.
+Futurechaptersdiscusstheopportunities
+forcompetitionforoptionalathletesatthe
+Level8athleteshavetheabilitytoearnan
+championshiplevelsandincludetheirpotential
+ExecutionScoreBonusthatwillbeaddedtotheir
+migrationthroughtheEliteTrackaswell.
+finalscore.Therequirementsforthisbonusare
+Level7: ThisLevelisdesignedasanintroduction delineatedintheExecutionScoreBonustablein
+theBonusSystemsectionofthischapter.
+tooptionalcompetitionandanopportunityfor
+athletestocompeteinanoptionalformatwith
+Level9&10:ThedesignoftheNationalTrack
+slightlymodifieddifficultyrequirements.An
+OptionalProgramemphasizesthatasgymnasts
+overviewofalloptionallevelsarefoundinthe
+advanceinageandability,workingtheirwayup
+‘OptionalTrack-RoutineRequirementsTable’
+throughLevels9&10incompetition,theymust
+andspecificrulesforLevel7arelistedinthe
+adapttotheFIGCodeofPointsandrulesas
+‘TableofGeneralRulesforLevel7’foundinthe
+writtenwithfewerexceptions.Wheremodifications
+OptionalJudgingGuidelinesSectionbelow.Level
+andexceptionshavebeenmadeforLevels
+7Optionalcompetitionissubjecttomodifications
+9&10theyarelistedinthe‘OptionalTrack-
+andexceptionstotheFIGCodeofPointswhere
+ModificationsandExceptionsTable’.Level9&10
+specifiedinthetables.
+athleteshavetheabilitytoearnbothdifficultyand
+executionscorebonusthatwillbeaddedtotheir
+Level8:Thefocusforthislevelremainsthe
+finalscore.Therequirementsforthisbonusare
+masteryoffundamentalexecutionwhile
+delineatedinthebonustablestowardstheendof
+developingroutineconstructionandarepertoire
+thischapter.TheFIGCodeisstandardthroughout
+ofskillsineachofthefourelementgroups.
+thesportofgymnastics,andinorderforathletes
+Generallyspeaking,Level8,althoughopentoall
+toadvanceintheirabilitieswithopportunitiesto
+ages12andup,specificallymodifiescertainrules
+furthertheircompetitivecareer,whetheritbein
+thatareappropriatetothestartingage.These
+collegecluborvarsityprogramsorbeyond,they
+modificationstospecificFIGrequirementsare
+mustbecomefamiliarwiththeFIGCode.The
+foundinthe‘OptionalTrack- Modificationsand
+entireprogramisdesignedtomakethistransition
+ExceptionsTable’andnotedmodificationsto
+48
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+smoothlyforthoseathletesaspiringtocompete competitionyearisdesignatedastheyear
+atLevels9&10.Futurechaptersdiscussthe ofeachlevel’schampionship.Sanctioned
+opportunitiesforcompetitionfortheseathletes invitationaloropencompetitionsheldduring
+atthechampionshiplevelsandincludetheir theregularseasonmayadjustagegroupsfor
+potentialmigrationthroughtheEliteTrackaswell. classificationofawardstocreateabalanced
+groupingaccordingtothefieldofentriesatthe
+discretionofthemeetdirector.
+B.OptionalRules&DocumentsofPrecedence
+TherulesintheNationalTrackOptionalProgram
+QualificationandChampionshipeventsat
+arebasedontheFIGCodeofPointspublishedby
+theState,RegionalorNationallevelwillhave
+theInternationalGymnasticsFederation.Ageneral
+agegroupsdesignatedbytheapproved
+overviewofbasicroutinerequirementsappears
+bodyoverseeingthosechampionshipevents.
+onthenextpage.TheFIGCoderequirements
+Forexample,aStateorRegionalboardmay
+maychangefromtimetotimeandarepublished
+determinetheawardcategoriesfortheir
+andupdatedontheFIGwebsiteasnewsletters.
+respectivechampionships.Thenational
+Thesedocumentsarealsoavailableonthe
+governingbodyoverseeingthoseeventssuch
+NationalGymnasticsJudgesAssociationwebsite
+astheMDPCortheMPCwillalwaysdetermine
+(NGJA).Thesechangesarealwaysenforcedin
+qualificationandagegroupsforNational
+theircurrentformasofthedatetheyareofficially
+Championshipevents.
+published,unlessotherwisespecified.TheFIG
+CodeofPoints,officialnewsletters,andNGJA
+rulingsandofficialnewslettersandinterpretations D .VideoReview
+aredocumentsofprecedence,unlessspecifically VideoreviewofD-ScoreandNeutraldeductions
+statedinthismanualwhereexceptionsand onlyisallowedatchampionshiplevelmeets(i.e.
+modificationstotheFIGarenotedandwilltake State,RegionalorNationalChampionships).
+precedence.
+E .BehavioralandSpottingdeductions
+Invitationaloropencompetitions,qualifying
+AllbehavioraldeductionsfollowFIGrulesand
+competitions,andchampionshiplevel
+JuniorMen’sProgramrequirementspertaining
+competitionsintheOptionalTrackshouldstate
+toattireandconductonthecompetitivefloor.
+therulesofcompetitionbeingusedintheir
+SpottersmustbeactiveUSAGymnastics
+directivesorentryinformation.
+professionalmembers. Aspotterisrequiredon
+EvaluationofexecutionfollowstheFIGCodeof
+Rings,Vault,andHorizontalBar.Aroutinemaynot
+Pointsanditsinterpretationsunlessspecifically
+beginuntilaspotterispresent.Ifaspotterleaves
+statedintheMen’sDevelopmentProgram
+theapparatusduringtheperformanceofa
+Manualmodificationsandexceptionswhichwill
+routineatanypointa-0.3deductionwillbetaken
+takeprecedence.
+fromtheexecutionscore.Assistingagymnast
+toperformaskillwillresultina-1.0deduction.
+C .AgeGuidelines Incidentalbrushesortouchesthatdonotassist
+Theageslistedinthechartarebasedonthe thegymnastareallowedwithoutdeduction.
+athlete’sbirthyear,whichmayalsobereferred Spottingmaynotbeperformedfromasurface
+toastheirageintheyearofcompetition.The higherthanthefloormatting.
+49
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+OptionalJudgingGuidelines
+OptionalTrack-RoutineRequirements-Levels7-10
+JuniororSeniorFIGRulesapplyexceptwherenotedbymodificationsorexceptions
+DScoreComponents
+Minimum
+*Required #of
+Level Competitive Numberof Dismount Event
+Valuefor Element StickBonus
+AgeAllowed ValueSkills EGValue Restrictions
+FullEGcredit Groups
+*ElementGroupValueRequiredfor0.5–exceptionofEG1onFX,PH,R,PB,HB
+SeeLevel7
+7 6 FIG“A”=
+12yrs. A 3 None Tableforevent
+Any6skills 0.5inEG
+restrictions
+4from VT=+0.1 VT-Nomultiple
+8
+12yrs. A Level8 Allothers Saltos
+Table B+=+0.1 FX-NotripleSaltos
+FIGValue FIG-NoJunior
+9 8
+14yrs. C ofskill= VTwith prohibitedSkills
+7+
+10Jr. dismount 4fromFIG Valuefor Salto=+0.1 FIG-NoJunior
+16yrs. Codeof EG prohibitedSkills
+D Points Allothers
+10Sr. C+=+0.1
+18yrs. NoRestrictions
+Junior“A”skillsareawardedatalllevels
+Note:StickbonuswillbeawardedonVaultforLevels3-6.
+F . ApprovedJunior“A”Skills fordifficultybutdonotqualifyforelementgroup
+Therearerecognizablegymnasticsskillsthatare value.Fullorpartialelementgroupvaluemay
+nolongerlistedforvalueintheFIGCodebutare onlybeappliedforskillsthatarelistedintheFIG
+consideredvalidskillsforthedevelopinggymnast. CodeofPoints.Skillsnotlistedinthetableandnot
+Theprimarypurposeofthismodificationisto includedintheFIGCodeofPointsarenoteligible
+ensurethatanygymnastcanfulfilltheminimum forvalue.Wheretwoormoreoptionsarewrittenin
+numberofrequiredskillsonanyeventandavoid asinglelineofthetableallmaybeperformedand
+adeductionforashortroutine.Thetablebelow countforJunior“A”valueof(+0.1).
+liststheapprovedJunior“A”valueskillsthatmay
+beawardedoneacheventintheOptionalTrack. Junior“A”skillsmaybecountedatalloptional
+Junior“A”valueskills(skillsthatarenotlistedin levelsexceptthosethatrequiretheuseofFIGonly
+theFIGCodeofPoints)receive(+0.1)skillvalue rules.
+50
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+OptionalTrack-ApprovedJunior“A”Skills–AllLevels
+FloorExercise PommelHorse
+Cartwheel Falsescissor
+AnyBackwardRoll *Singlelegtravel
+Headspring *SinglelegStockliturn
+PresstoHeadstand Flairinanyposition
+Round-off Anyflankoffdismount
+Swedishfall *Loopwith¼turntolegcut
+StillRings Vault
+Tuckplanchehold
+Shoulderstandorgianttoshoulderstandhold
+Hanging“L”hold
+NoexceptionstotheFIGCodeofPoints
+Germanhanghold
+Muscleuptosupportholdunassisted
+Tucksaltodismount
+ParallelBars HorizontalBar
+BackUprisetosupport AnyKiptosupport
+Moytoupperarm Anynon-FIGSaltodismount
+Flank,Stutz,Wendeortucksaltodismount ToeonToeoffeitherdirection
+“V”hold Frontorbackhipcircle
+Mannahold Pullovertosupport
+Dropkip ¾giantforwardorbackwards
+Shoulderstand Backuprisetoanyheight
+Forwardroll Swing½Turntoanyheight
+*PommelHorsesinglelegtravelskillsdonothavealegamplituderequirement
+Where2skillsarelisted,bothmaycountforJunior“A”value
+G .ApplyingSkillValue(FIGException) CompetitionLevel8Section.Themodificationsto
+Thedifficultyvalueofaskillmaybeawardedeven theselevelsareintendedtohelpthesegymnasts
+inthecaseofasingularlargededuction(-0.5)in adapttooptionalcompetitionandbuildabaseof
+theexecutionoftheskill.Angledeductionswillstill fundamentalskillsforroutinecomposition.InLevels
+apply. 9and10therulesarecloselybasedontheFIG
+Codeforjuniorswithfewexceptions.
+H. ModifiedRulesTables
+Levels7and8,areconsideredentrylevelsinto I .FIGRulesChampionshipEvents
+theOptionalTracktowhichyoungerorless All exceptionsinthefollowingtablesdonot
+experiencedgymnastsaretransitioningfrom applytochampionshipeventssuchasU.S.
+compulsorylevelsorfromtheClubTrack.These ChampionshipsandWinterCuportoqualifyingor
+levelshavesignificantlymodifiedrulerequirements selectioneventssodesignatedwhereFIGRulesare
+appropriatetothistransition.Themodifiedrules appliedaswrittenwithoutexceptionasapproved
+tablesandexceptionstotheFIGCodeofPoints bytheMen’sDevelopmentProgramCommittee
+arelistedbelow..InLevel8,aPommel-lesshorseis (MDPC)ortheMen’sProgramCommittee(MPC)for
+usedforcompetitionandtheassociatedPommel- thoseeventsandarepublishedintheirrespective
+lessHorseCodeofPointsTablesappearsinthe directives.
+51
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+OptionalTrack-Modifications&ExceptionsTable
+FIGException–Skillvaluemaybeawardedeveninthecaseofasinglelargededuction(-0.5)
+Level7,8&9–Routineswithlessthan6recognizedskillsreceiveaneutraldeductionof(-1.0)perskilllessthan6
+Level7Only–PH,R,PB,HB–Maximum-0.5Globaldeductionforanynumberofempty/intermediateswings
+FIGException:DarkcoloredpantsareallowedintheDevelopmentProgram
+FloorExercise
+Level7,8,9&10–MultiplesaltoelementNOTrequired
+Level7,8&9–Separateskillsincombinedboxeseachhavetheirownvirtualbox,norepetition
+Level8&9–B+C,C+BandC+Cconnectionswillreceive+0.1inbonus(ExceptTwisttoTwistConnections)
+PommelHorse
+Level7–AlistedEGIIorEGIIIelementdoesnotrequirealistedCOPelementafterwardstoreceivevalve
+Level8–AllskillsmustcomefromPommel-lessHorseCOPlistedintheJMCPManual
+Level7,8&9–CircletoHandstanddismountreceives“C”Value
+Level7,8,9,&10-CircletohandstandskillsthatmakeittohandstandwillreceiveDscorecreditandcanonly
+receivesmall(-0.1)andmedium(-0.3)deductionsforexecutionerrors.Nolarge(-0.5)deductionswillbetaken.
+Level7,8,9&10–FIGcircledeductionswillbeappliedbyskill,notbysection
+StillRings
+Level7–Empty½swingallowedpriortoanyskill
+Level7&8–FIGSwingtohandstandNOTrequired
+Level7,8,&9-Supportscale&supportscalestraddledskillsfromelementgroupIIorIII(ElementsII.9,II.19,III.56,
+III.58,III.68,III.70,III.82)willbeupgradedonelettervalueandcanonlyreceivesmall(-0.1)andmedium(-0.3)
+deductionsforexecutionerrors.Nolarge(-0.5)deductionswillbetaken.
+Level7,8,&9-Presstohandstandwithstraightarmsandbentbody(ElementII.26),willreceivea“C”value.
+Armsmustbeperfectlystraightonthewayupandinthehandstandwithringsturnedparallelorgreater.
+Level10-Supportscale(Planche),Cross,InvertedCross,Swallow,orInvertedSwallowskillsfromelementgroupIIorIII
+willbeupgradedonelettervalueandcanonlyreceivesmall(-0.1)andmedium(-0.3)deductionsforexecutionerrors.
+Nolarge(-0.5)deductionswillbetaken.
+Vault
+AllYamashitastylevaultswillberecognizedandhavethesameD-scoreastheirequivalentFrontHandspringvaults
+Level7&8-Tsukahara(III.307)orYurchenko(IV.407)Tucked=2.6,Tsukahara(III.308)orYurchenko(IV.413)
+Piked=2.6&Tsukahara(III.313)orYurchenko(IV.414)Stretched=3.6
+Level7,8,9&10–Handspringforward&saltoforwardpiked(II.213)=3.6,Handspringforward&saltoforwardpiked
+with½twist(II.214)=4.0,Handspringforward&saltoforwardstraight(II.219)=4.4&Handspringforward&salto
+forwardstraightwith½or1/1twist(II.220)=4.6
+ParallelBars
+Level7–Empty½swingallowedpriortoanyskill
+Level8&9–Empty½swingallowedpriortoEGIIIskills
+Level7,8&9–StutzandGianttoSupport=“B”valueandEGcredit,inaddition(II.3&III.21)
+Levels7,8&9Only–Saltobackwardstraightwith½twist(IV.19)&Saltoforwardpikedorstraightwith½twist(IV.1)
+receive“B”valueandEGcredit
+Level7,8,9,&10-Noreverseindirectiondeductionforskillsthatcomefromaswinghandstand(ElementII.1)
+HorizontalBar
+Level7–Empty½swingallowedpriortoanyskill
+Level7,8&9–Swinghalfturnallowedfollowinganyflightelementwithoutsaltooverthebar
+Level7,8&9–Amaximumof5forwardandbackwardmovementsisallowedpriortothefirstvalueskill
+Level7,8,9&10–C+Cflightconnectionwillreceive+0.1inbonus
+Level7,8,&9-Maximumof-0.5indeductionsforskillfollowingaCorhigherreleaseskill
+52
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+J.AdditionalExceptionstotheFIGCodeofPoints CodeofPointsonVaultforInvalidvaultsandon
+Inadditiontothetablesabove,thefollowing HorizontalBarforAdlerskills.
+tablesshowspecificexceptionstotheFIG
+OptionalTrack-InvalidVaultTable
+Level7,8,9&10–Aninvalidvault(FIGCOPPage96)willbescoredanddefinedasfollows:
+7a) Nosupportphase=largeerror(-0.5),evaluateasis,2ndattemptisNOTallowed
+7b) Nosafetycollar=largeerror(-0.5),evaluateasis,2ndattemptisNOTallowed
+7c1) Unrecognizedvault=deduction(-1.0),definedasabalk,2ndattemptallowed
+7c2) Pushesfromfeet=deduction(-1.0),definedasabalk,2ndattemptallowed
+7d) Spotting=deduction(-1.0),evaluateasis,2ndattemptisNOTallowed
+7e) Nofoot/feetfirstlanding=deduction(-1.0),evaluateasis,2ndattemptNOTallowed
+7f) Sidestandlanding=applyincompletetwistdeductions,evaluateasis,2ndattemptNOTallowed
+7g) Prohibitedvault=largeerror(-0.5),evaluateasis,2ndattemptNOTallowed
+OptionalTrack-Level7,8&9Only-AdlerSkillsModificationsTable
+AdlerSkill SkillValue AngleDeduction
+AdlertoHandstand “D”Value Noanglededuction
+Adlerfrom15°to45°fromHandstand “C“Value Noanglededuction
+Adlerfrom46°toHorizontal “B”Value Noanglededuction
+AdlerbelowHorizontal Junior“A”Value Anglededuction(-0.5)
+K . BonusSystem theD-scoreidentifiedtobecompetitiveat
+TheNationalTrackOptionalProgramwilluse internationaljuniorcompetitions.Coachesand
+asystemofbonusforLevels8,9&10only.The athletesshouldrealizethatthebonusprogram
+bonuswillbeawardedtogymnastswhoachieve provideslinkagebetweentheOptionalTrack
+thebenchmarkspublishedintablesatthe andtheJuniorEliteTrackforthoseathleteswho
+endofthischapter. Thegymnastwillreceive areabletoqualifytothoseprograms.Itisnot
+abonusaddedtohisfinalscoredepending intendedthatthemajorityofathletescompeting
+onthebenchmarkachieved.TheD-scoreswill intheOptionalTrackareabletoachievethese
+bebasedontheFIG’sJuniorCodeofPoints. benchmarks.Rather,thefocusoftheOptional
+Thebonussystemisdesignedtoencourage Trackremainsonbuildingastrong,complete
+gymnaststoworktowardsthedevelopment fundamentalmasteryofbasicskillsoneach
+ofhighervalueskillsineachelementgroup. eventallowingcoachesandathletestochoose
+Italsodirectlysupportsthedevelopmentof skillsforroutinecompositiontheyareable
+theNationalTeamProgramandservesasa toperformwithahighlevelofmastery.This
+guideforathleteswhoaspiretobepartofthat formulatypicallyyieldsthehighestfinalscorefor
+program.Thesebenchmarksarebasedupon mostathletes.
+53
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level7Rules
+L . Level7Table
+Thegeneralruleslistedinthetablebeloware supportanathlete’sdevelopmenttoeventually
+similartonationalcompetitionatLevels8,9, moveuptohigherlevelswithintheOptional
+and10butwithfewerdifficultyrequirements. Trackcompetitionstructure.Thefollowingtable
+Therulesaredesignedtoprovideastructure listsrulesofcompetitioninadditiontothe
+similartotheotherlevelsandserveasabridge generalRoutineRequirementstableonpage50.
+tothoselevels.Experienceatthislevelcan
+TableofGeneralRulesforLevel7
+Rules DScoreComponents RulesDefined
+Eachelementgrouprequirementfulfilled(insidethe6
+countingelements)isawarded0.5foramaximumof3
+ElementGroups 3EG’s for1.5max elementgroups(1.5).Elementgroupvalueandmaycome
+fromanyofthe4FIGelementgroups.Thedismountisnot
+requiredasoneofthe6countingelements.
+Difficultyvalueof6elementswillbecounted.Junior“A”
+skillscountforvalue(+0.1)butdonotcountforEGcredit.If
+ValueParts 6Skills
+aFIG“A”dismountisperformeditwillbeawarded0.5for
+ElementGroup IVcredit.
+Nobonusesareawardedatthislevel.NoStickbonus,no
+Bonuses NONE DifficultyScoreBonus,noExecutionScoreBonusandno
+VaultBonus.
+NomultiplesaltovaultsortwistingYurchenkovaults
+VaultLimits SeelistedVaults
+allowed.
+FXLimits TripleBack Notriplesaltosallowed
+NoFIGSkillprohibitedforJuniorsallowed
+FIGLimits ProhibitedFIGSkills
+(markedbyintheFIGCode)
+Equipment PHwithPommels Atthislevelthepommelhorseisusedwiththepommels.
+Level8Rules
+M . Level8Tables exceptwherenotedinthefollowingtablesandthe
+The‘TableofElementGroupsandRulesforLevel8’ ‘ModificationsandExceptionsTable’.Adjustments
+liststhemodificationsandexceptionsaswellasthe tosomeelementgroupsinthetablebelowhave
+generalstructureoftherulesforLevel8competition beenmadetomodifyFIGrulesandstructure.
+intheOptionalTrack.ThePommel-lessHorseJunior ThesemodificationsoccuronPommelHorse,Still
+CodeofPointsconsistsof5separatetablesthat RingsandHorizontalBar.UseofthePommel-less
+listpommelhorseskillsforthe4definedelement Horse,additionallevel-appropriatemodifications
+groupsandskillsthatareaddedinaseparatetable onStillRingsaddressingFIGrequirementsfor
+thatareuniquetoPommel-lessHorse. swingtostrengthandswingstohandstand
+(EGIII)andonHorizontalBaraninclusionof “in
+RefertotheFIGCodeofPointsforskillvaluesand bar”forwardskillstotheflightelementgroup
+structureofroutines.AllFIGrequirementsapply requirementsprovidingmoreoptionsforEGII.
+54
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level8CompetitionTables
+TableofElementGroupsandRulesforLevel8
+FloorExercise
+EGI EGII EGIII EGIV
+FIGI–Non-acrobatic FIGII–Acrobatic-Forward FIGIII–Acrobatic- SingleSaltoFwdorBwd
+Backward with1ormoretwists
+PommelHorse
+EGI EGII EGIII EGIV
+Flairelements FIGII–Circles/Turning FIGIII–Travelelements FIGIV– FIG“A” Dismount
+skills
+StillRings
+EGI EGII EGIII EGIV
+FIGI–Kips&Swings FIGII–Strength&Hold Handstand2sechold FIGIV– FIG“A” Dismount
+EGII: AnyFIGEGIIorEGIIIskillmayfulfillEGIIrequirement“Strength&Hold”
+EGIII:HeldHandstandrequired–(Nohold=NoEGcredit,Momentaryhold=EGIIIcreditanddeduct-0.3
+Vault
+AllFIGValueVaultswithDScoremodificationslistedintheModificationsandExceptionsTable
+ParallelBars
+EGI EGII EGIII EGIV
+FIGI–Upperarm FIGII–Supportelement FIGIII–Hang&Basket FIGIV– FIG“A” Dismount
+HorizontalBar
+EGI EGII EGIII EGIV
+FIGI–Giants,turns AnyFIGFlightorInbar AnyFIGInbarbackward FIGIV– FIG“A” Dismount
+forward
+EGII(Inbarforward)–Kips,Endos,Adlers,Weiler,oranyFIGFlightelement
+EGIII(Inbarbackward)–Freehips,Stalders,Steineman,Kosteorbacktoss
+Level8Pommel-lessHorse • ONLYskillslistedintheLevel8Pommel-less
+HorseSkillsTableareallowed.
+N. Pommel-lessHorseCodeofPoints • FIGskillselectionandeliminationcriteria:
+ThecompetitioninLevel8utilizesaPommel- – Skillsthataredefinedbybeingonthe
+lessHorse.Skillsforthiseventhavebeenre- pommelshavebeeneliminated.
+categorizedfromtheFIGCodeofPointsto
+– Skillsthataredefinedbytheirstarting
+createaPommel-lessHorseCodeofPoints.All and/orendingpositiononoraroundthe
+skillsperformedinthislevelmustcomefrom
+pommelshavebeeneliminated.
+thisPommel-lessHorseCode.Skillsretaintheir
+– Oneskillcancountforoneelementgroup
+FIGCodevaluesunlessotherwisenoted.Where
+only
+applicable,listedCodenumbershavebeen
+• Skillsonthepommelsareincludedthatcanbe
+providedtorefertotheFIGCodeofPoints.
+doneontheleatherandareeasilyidentified.
+Pommel-lessHorseRules&SkillsFIGCode
+Exceptions:
+55
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+TheCzechkehreand DSAcan startand end in • Flankofffrom cross support inthe middleof
+bothsideandcrosssupport. thehorseorfromcross support rearwayson
+Skill identification and evaluationcriteria: end.
+- Askilliscompleted when both hands have
+Note: must be preceded byonefull cross
+reachedtheintended partofthe horse.
+supportcircle (circle not partofanotherskill).
+Traveling skillswillbe evaluated aseither
+traveling 1/2 or3/3ofthe horse,1/3and 2/3
+travelswill notbe used
+Pommel-less HorseCodeofPoints
+EGI- Flairs Note: Skillsfrom EGIIorEGIIIdone FLAIREDcanfulfillEGI
+SkillDescription FIGCodeBox Modification Value
+Circleinsidesupport II.1 Flaired A
+Circle incross supportfrontways (frontloop) 11.7 Flaired A
+Circle incrosssupportrearways (backloop) 11.13 Flaired A
+1/4Spindleonend (from crossorsidesupport) 11.25 Flaired A
+1/2Spindleonend (from cross orsidesupport) 11.26 Flaired B
+1/1Flairspindlefrom side support (max2 circles) 11.28 D
+Eichorn 11.29
+Magyar - 1/1 spindle (max2circles) 11.34 D
+Tippelt- FlairorCirclethrough H.S. backtoflairorcircle 11.51 Flaired C
+Busnari II.54 Flaired LL F
+56 USAGymnastics- Men'sDevelopmentProgram—- JuniorCompetitionManual May2024
+
+Pommel-less Horse Code ofPoints (cont.)
+FIGEG II-Circlewithand/orwithoutspindlesand handstands, Kehre swings, Russianwendeswings
+SkillDescription FIGCodeBox Modification Value
+Circleinsidesupport II.1 A
+Circleincrosssupportfrontways (front loop) 11.7 A
+Circleincrosssupport rearways (backloop) 11.13 A
+1/4Spindleonend (from crossorsidesupport) 11.25 A
+1/2 Spindleonend (from crossor side support) 11.26 B
+1/1 Flairspindlefrom side support (max2circles) 11.28 D
+Eichorn 11.29 E
+Magyar- 1/1 spindle (max2circles) 11.34 D
+Crosssupport 1/1 spindle (inthe middle) (max2 circles) 11.36 F LL
+Tippelt- FlairorCirclethrough H.S.backtoflairorcircle 11.51 C
+DirectStockli A(*from crossorsidesupport) 11.38 B
+Busnari II.54 பட
+Double rear(Kehre) 11.55 A
+ReverseStockli 180°or270° 11.68 B
+Schwabenflank 11.73 A
+Czechkehre(*from crossorside support) 11.74 B
+180°or270° Russian 11.97 A
+360°or540° Russian II.103 Juniorupgrade B
+720°or900° Russian II.104 Juniorupgrade C
+1080° Russian 11.105 Juniorupgrade D
+180°or270°Russian (inthe middle) 11.110 B
+360°or540° Russian (in the middle) II.111 C
+720°or900° Russian (in the middle) II.112 D
+1080° Russian (inthe middle) II.113 E
+USAGymnastics–Men'sDevelopmentProgram— –JuniorCompetitionManual • May2024 57
+
+Pommel-lessHorseCodeofPoints(cont.)
+FIGEGIII–Traveltypeelements,includingWu,Roth&TravelingSpindles
+SkillDescription FIGCodeBox Modification Value
+Travelinsidesupport(3/3) III.3 C
+Travelwith1/2spindlefromcrosssupport(1/2) III.15 C
+Travel(3/3)withfullspindleincrosssupport AddedSkill E
+Travelfwdorbwdwith¼spindletosidesupport(½travelw/¼spindle) AddedSkill B
+UAlrlztircaav2elswith½spindleinsidesupport(½travelw/½spindle) AddedSkill C
+III.29 E
+Travelforwardincrosssupport(1/2) III.32 B
+Magyar(3/3)travelforwardlegstogetherorflaired III.34 D
+Travelbackwardincrosssupport(1/2) III.38 B
+Sivado(3/3)travelbackwardlegstogetherorflared III.40 D
+Molguilny:Kehreforward,reverseStockli,Kehreforward(3/3) III.46 D
+Belenki:reverseStockli,Kehreforward,reverseStockli(3/3) III.52 D
+WuGuonian:720ºRussianwith3/3travel III.65 E
+Roth:360ºRussianwith3/3travel III.70 D
+360ºRussianwith1/2travel AddedSkill C
+FIGEGIV–Dismounts
+SkillDescription FIGCodeBox Modification Value
+WFleannkdoefffromcrosssupport(precededby1fullcrosssupportcircle) AddedSkill A
+IV.1 A
+Chaguiniantowende IV.2 B
+Kolyvanov-circleorflairH.S.+3/3travel+450ºturn IV.4 D
+DSAtohandstand,3/3travelwith450ºormoreturn IV.5 E
+360ºor540ºRussian IV.7 Juniorupgrade B
+720ºor900º Russian IV.8 Juniorupgrade C
+1080ºRussian IV.10 Juniorupgrade D
+CircleorFLAIRtohandstand IV.20 Juniorupgrade C
+Pellerin-180Russiantootherendthroughhandstanddismount IV.22
+Skills–Theseskillsreceivevalue,butdonotfulfillanySpecialRequirement
+SkillDescription FIGCodeBox Modification Value
+1111////4444ttttuuuurrrrnnnnfrffrerroaoonrmmtwccwarrayooyssssssffrssrouuopmpmppsosoiirrddtteerfsseruuoappnrpptwoowarrayttys(s(1(1(/1/12/2/2S2KtSeKotcheokrchlk)ril))i) AddedSkill A
+AddedSkill A
+AddedSkill A
+AddedSkill A
+58
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Levels9&10Rules
+toattainabonusbasedontheirexecutionand
+O . FIGRulesandLevelAppropriateAdjustments difficultyscoresaslaidoutintheBonusSection
+Levels9&10intheNationalTrackOptionalProgram below.Additionally,Level9&10gymnastsaregiven
+followFIGRulesandusetheFIGCodeofPointsfor anopportunitytoperformtwovaultsasindicated
+skillvaluesandElementGrouprules.Levels9&10 inthe‘Level9&10VaultOptionsTable’.
+usethemodificationswhichallowuseofJunior
+“A”skills.Additionalmodificationsandexceptions Thefollowingvaulttableliststhecompetitive
+foreacheventcanbefoundinthe‘OptionalTrack
+optionsforvaultscoringforLevel9&10gymnasts
+- ModificationsandExceptionsTable’included intheNationalTrackOptionalProgram.The
+above.The‘OptionalTrack-RoutineRequirements purposeofthisprogramistoallowandincentivize
+Table’listsanyscoringdifferencesbetweenLevels gymnaststodevelopmorethanonecategoryor
+9&10.Level9&10athleteswillhaveanoption typeofvault.
+Level9&10VaultOptionsTable
+Requirementsfortheopportunitytoperforma2ndVault
+1stVaultmustbelanded Nofallallowed
+Level9 – Minimum 3.6
+1stVaultmustfulfillaminimumStartValue
+Level10–Minimum 4.4
+Conditionsofthe2ndVault
+2ndVaultmustbeadifferentvaultfromthe1stVault NOTrequiredtobefromadifferentFIGvaultgroup
+2ndVaultStartValuemustbegreaterthanorequal Level9 – Minimum 3.6
+tothe1stVaultStartValue Level10–Minimum 4.4
+ScoringNotes
+Gymnastwillbeawardedthehighestfinalscorerecordedforeitherthe1stor2ndVault
+IfeithervaultperformedmeetsthebenchmarkssetforD-scoreand/orE-score,
+theywillbeawardedbonusindicatedintheappropriatelevel.
+59
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Level 8, 9 &10 Bonus System & Tables
+P. BonusBenchmarks showing aninternational levelofskillandat
+TheMen'sDevelopmentProgramwill implement thesametimeareableto maintainaveryhigh
+a program ofbonusforoptional routine levelofexecution. Onlythosewith a high levelof
+development.For level 8,the bonus is based on
+fundamental mastery on each eventarelikely
+theirEscoreonly.For levels 9& 10the bonuscanbe
+toattemptsucha benchmark.The program is
+awarded based ontheir Dscore, Escore,orboth. modeled afterthecurrentstandardsrequired
+Thegymnastwillreceivea bonusadded to his forJuniorNationalTeamdevelopment.These
+final score depending onthe benchmarkachieved. standardshave been used forassignments
+Thebenchmarksestablishedforeach eventare
+to internationalcompetitionsandareactively
+based uponthecalculated DandEscoresthat promoted at nationalteam camps.The
+arecompetitivewith higher-levelgymnasts and standardsaresubjectto changeyear byyear.
+juniorinternationalcompetition.Thepurpose ofthe Thisprogramis implemented inthe National
+program istoincentivize athletesto developtheir Track- Optionalto provideanyathletethe
+routineconstruction in all elementgroupsinorder opportunitytotransitiontothe EliteTrackifhe
+toreachthese benchmarks and tosafely prepare aspirestothatlevel. Achievingthese benchmarks
+them inperforming higherlevel routines. alsocreatesmore opportunitiesfor National
+Track-Optional athletes to continue gymnastics
+It'simportantto note thatthe bonus program atcollegiateor professional programsafter
+isintendedforgymnastswhoare capable of graduatingfromthe development program.
+DScorebonus- L9&10Only
+FX DscoreTBD DscoreTBD DscoreTBD DscoreTBD
+L9 0.1 0.2 0.3 0.3
+LIO 0 0.1 0.2 0.3
+PH DscoreTBD DscoreTBD DscoreTBD DscoreTBD
+L9 0.1 0.2 0.3 0.3
+LIO 0 0.1 0.2 0.3
+R DscoreTBD DscoreTBD DscoreTBD DscoreTBD
+L9 0.1 0.2 0.3 0.3
+LIO 0 0.1 0.2 0.3
+V DscoreTBD DscoreTBD DscoreTBD DscoreTBD
+L9 0.1 0.2 0.3 0.4
+LIO 0.1 0.2 0.3 0.4
+PB DscoreTBD DscoreTBD DscoreTBD DscoreTBD
+L9 0.1 0.2 0.3 0.3
+L10 0.0 0.1 0.2 0.3
+HB DscoreTBD DscoreTBD DscoreTBD DscoreTBD
+L9 0.1 0.2 0.3 0.3
+LIO 0 0.1 0.2 0.3
+EScorebonus- L8,9,&10
+AllEvents 8.6-8.85 8.9-9.15 9.2-9.45 9.5-10.0
+L8,9,&10 0.1 0.2 0.3 0.4
+60
+USAGymnastics- Men'sDevelopmentProgram-—JuniorCompetitionManual May2024
+
+Level6FutureStars
+Chapter 5
+Levels8,9&10
+ELITE TRACK
+JuniorElite
+A . EliteRules:Thethirdtrackwithinthejunior C . NationalTeam:TheU.S.NationalTeam
+competitionsphereisfocusedonthedevelopment programiscomposedofathletesfromvarious
+ofathleteswhoaspiretobeselectedtothe agegroups.EliteTrackathletescompetingin
+U.S.NationalTeamprogramandultimately junioragegroupsareeligibleforselectiontothe
+internationalcompetitionuptoandincluding NationalTeam.Oncenamed,athletesareeligible
+theOlympicGamesandWorldChampionships. toattendNationalTeamtrainingcampsand
+However,sinceathletescompetewiththeir participateindevelopmentandassignmentto
+teammatesintheNationalTrackforthemajority competeinvariousinternationalcompetitions.
+oftheircompetitionseason,theEliteTrackuses Thistrainingandtheseopportunitieshelpto
+theNationalTrackrulesofoptionalcompetitionfor broadentheexposureandexperiencethese
+mostcompetitions.Onlyselectionorchampionship athletesneedtobecomeworld-classcompetitors.
+leveleventsthatspecificallystatetheuseofFIG TheseEliteathletes,oncenamed,arealsosubject
+Ruleswillbetheexceptiontothisrule. Theseevents totheHighPerformancePlanthatisdeveloped
+include,butarenotlimitedto,competitionssuchas inconcertwiththeU.S.Olympic&Paralympic
+U.S.Championshipsand/orWinterCup. Committee’sHighPerformanceteam.
+B . TechnicalSequences:A majordifference D . FutureStars:AnotheraspectoftheEliteTrack
+betweentheEliteTrackandtheNationalTrackis istheFutureStarsNationalDevelopmentTeam.
+theevaluationanduseofTechnicalSequences TheFutureStarsprogramistheentrypointto
+indeterminingrankings.TechnicalSequences theEliteTrackforathletesaged10-11years.
+aresimilartocompulsoryexercisesandare Thisprogramoperatesinconjunctionwiththe
+composedentirelyofskillsdeemedessentialto normalcompetitiveseasonandisopentoany
+fundamentalmasteryofawidevarietyofbasic gymnastaspiringtolearnwhatisinvolvedinthe
+skillsimportanttoroutineconstructionandthe EliteTrack.TheFutureStarsnationalcompetition
+opportunitytobuilddifficultyoneacheventand programtakesplaceatinvitationalsthroughout
+ineachelementgroup.TheTechnicalSequences thecountryandculminatesattheEasternand
+andOptionalRoutinesareusedforselectionto WesternNationalChampionships. TheFuture
+thenationalteamandforqualificationtothe Starscompetitionprogramusesanadapted
+Elitedivisioninordertogaintheopportunityto versionoftheTechnicalSequencesasthebasis
+competeincompetitionswheretheNational ofitscompetitionformat.Athletesqualifythrough
+Teamselectionwilltakeplace.Athletesmay theirregionforparticipationattheEasternor
+qualifytomovefromtheOptionalTracktotheElite WesternFutureStarNationalChampionships
+Trackbyattainingadeterminedcombinedscore whereadevelopmentalteamofupto24athletes
+onTechnicalSequencesandOptionalRoutines isrecognized.TheFutureStarsCampiscombined
+attheirStateandRegionalChampionships.Level withaworkshopfocusedoncoaches’education,
+6’swouldqualifytotheEastern/WesternNational whichisacriticalfocusforelitedevelopment.
+ChampionshipswhileLevels8,9&10’swould Thedocumentspertainingtotheformatand
+qualifytoparticipateintheEliteTrackattheMen’s curriculumforthisprogramarepublished
+DevelopmentNationalChampionships.Level10 underseparatecoverfromthismanualand
+athletescompetingattheMen’sDevelopment areavailablethroughUSAGymnastics’website.
+NationalChampionshipswithintheEliteTrack Qualificationscoresandallotmentsareupdated
+havetheopportunitytoqualifytotheU.S. andpublishedeachyearpriortothestateand
+Championships. regionalevents.
+61
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+The Elite National Teams forjuniors.Thetable givesa cursoryidea ofhow
+theteamsare populated. However, detailed
+E.NationalTeamProgram Description:The
+informationonselection can changefrom year-
+followingtableshowsthe make-upofthe
+to-year.Theappropriate SelectionCommittee
+U.S. NationalTeam Programforjuniorand
+aswellasanyconditions subjecttotheHigh
+seniormen'sgymnastics.This includes both
+Performance Plan submitted and approved bythe
+developmentalteamsaswellasnational
+U.S. Olympic&ParalympicCommittee that may
+teamswhoarealso eligibleforassignmentto
+affectteam selection:
+international competition subjectto FIGguidelines
+U.S. National Team Program
+Qualificationand selection criteria published inthe R&P, National Team Handbook
+FutureStarNationals NationalDevelopmentTeam AgeBracket(s)
+24attend NationalCamp 48athletesrecognized National (10,11)
+Level8/9Team U.S.NationalTeam AgeBracket(s)
+Upto15athletes&2-3 NTcamps RankOrder + OpenSelection JuniorElite (12, 13,14,15)
+Level10JuniorNationalTeam U.S.NationalTeam AgeBracket(s)
+Upto14athletes&3NTcamps RankOrder +OpenSelection JuniorElite (16,17)
+18-20NationalTeam U.S.SeniorDevelopmentTeam AgeBracket(s)
+SeniorNTCamps Upto 5athletes National (18, 19,20)
+FIGU.S.Seniors SeniorNationalTeam AgeBracket(s)
+SeniorNTCamps Upto20 athletes FIG (18+)
+Note:Thecontentand distribution ofthistable issubjecttoannualreview
+62 USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+The Elite National Team Program Plan. Onlyathletesselected tothe U.S. National
+Team maycompeteforthe U.S.A.in international
+F. Selection,Camps,andResponsibilities:
+competition.International assignmentsare
+Selectiontothe NationalTeam forjunioraged
+selected based uponcompetition and training
+athletes requires qualification and competition
+campperformance and must beapprovedby
+in theEliteTrack.Atages10-19intheMen's
+theappropriate Selection Committee.
+Developmentcompetition program Technical
+Sequencesare required asoneelementof
+ANationalTeam Handbookisdistributed to each
+thequalification and/orselection.Technical
+athletethat liststhe requirementsofcoachesand
+Sequencescombinedwith optional routinesand
+athletesas membersofthe U.S. NationalTeam.
+thestartvalue bonus programarethethree basic
+Internationallysanctioned meetsare conditional
+competition elements central tothe National
+onmeetingFIGage guidelinesand mayvaryfrom
+Team program's mission. Elite level performance
+competition to competition.Typical competitions
+consistentwith international standards
+forjunioragedathletes mayincludeJuniorPan
+dependsonthe execution ofeachofthesethree
+AmericanChampionships, FIGYouthOlympic
+componentsata highlevel.
+Games,JuniorWorld Championships, ora variety
+ofinvitational international events sponsored by
+Onceselected tothe U.S.NationalTeam,
+countriesaround theworld asmembersofthe
+numeroustraining campsare heldthroughoutthe
+InternationalGymnastics Federation.
+yeartoassistinthe developmentofathletesand
+goal settingforthe international competition level. Coachesareadvised to contactthe Men's
+Athletesaspiring to competeforthe United States
+DevelopmentProgram Directorformore
+ininternational competition are required towork informationaboutthe U.S. NationalTeam
+towardsandachievethe benchmarks in these
+program orElite division competition.
+areassetbytheapproved High Performance
+TheEliteTrackCompetitionSchedule
+Thefollowingtable lists competitions available in the Junior program forthe EliteTrackand approximate
+time ofyear, ageguidelines,and qualifications or selections:
+Junior Men's Elite TrackCompetitions and Event Qualifications or Selections
+—
+Note:Rulesmayvary–FIGRuleseventsdonotincludejuniorprogram modifications
+Event AgeorLevels(s) Annual Selection
+EliteTeam Cup– FIG Rules Level9,10/14-19years February RegionalTeam selections
+WinterCup- FIGRules Level10/18+years February Qualifyto Seniordivision
+StateChampionships Level6,8,9,10 /10-19years March TechnicalSequence required
+TS+OptionalQualification by
+RegionalChampionships Level6,8,9,10/10-19years April
+score
+Eastern&Western National NationalDevelopmentTeam
+Level6 (10-11) April
+Championships Selection
+L8/9 NationalTeam
+Men'sDevelopment Level8(12-13),Level 9 (14-15)
+May Selection, L10QualifytoU.S.
+NationalChampionships Level10 (16-19)
+Championships
+U.S.Classic - FIG Rules Level10/16-18years June/July Qualifyto U.S. Championships
+U.S.Championships – FIG L10NationalTeam- Optionals
+Level10/16-19years August
+Rules Only
+Note:Thecontentanddistributionofthistableissubjecttoannualreview
+USAGymnastics–Men'sDevelopmentProgram— –JuniorCompetitionManual • May2024 63
+
+Chapter 6
+CHAMPIONSHIP COMPETITIONS
+A . StateandRegionalChampionships:Each C . DevelopmentNationalChampionships:Level
+ofthevariouslevelsinthejuniorcompetition 10JuniorNationalathletesqualifytoattendthis
+programculminatesinachampionshipatthe championship.Thechampionshipsisgenerally
+endofeachannualseason.Forthecompulsory heldinMayofeachyear.Qualificationto
+levels3,4,5&6thiscompetitionistheState thesechampionshipsisdonebyeitherascore
+orRegionalChampionshipforeachofthesix qualificationoranallotmentsystembasedon
+regions.Eachstateorregionhastheresponsibility rankingsfromtheregionalchampionshipevents.
+todeterminetheirchampionshipformatand Anallotmentsystemisusedforqualificationto
+determineguidelinesforwhocanqualifytothose ensureafairdistributionofathletesamongthe
+championships.Insomelargerregionsthereare nineregions.
+evensectionalchampionshipsforsomelevelsas
+partofthequalifyingprocess.Theseareultimately D. EliteChampionshipsQualificationand
+determinedbytheelectedstateorregional Selection:Inaddition,theElitetrackhasits
+boardsbaseduponresources,competitionsites, championshipaspartoftheMen’sDevelopment
+financialconsiderations,andotherconsiderations NationalChampionshipsthattheLevel10
+toallowthenumberofparticipantsthatbestfits athletesattend.AfterqualifyingtotheElite
+theirpopulationnumbers.Thesequalificationsare TrackattheirRegionalChampionships,aselect
+publishedannuallybyeachregionorstatebased numberineachofthelevels8,9and10elites
+ontheirgovernance. qualifytocompeteattheMen’sDevelopment
+NationalChampionshipsbyachievingapre-
+B . EastandWestMen’sDevelopmentNational determinedcombinedscoreincludingthe
+Championships:TheEastandWestDevelopment TechnicalSequencesandtheirOptionalAll-
+NationalChampionshipsfocusonprovidingthe Aroundscorefromregionals.Thisscoreis
+opportunityforathletesatLevel7,8&9inthe recommendedeachyearandapprovedbythe
+NationalTrackandLevel6intheEliteTrackto MDPCpriortotheregionalchampionships.Elite
+attendtheirseason’sculminatingchampionship athletescompetingattheMen’sDevelopment
+ingreaternumbers.Thisformatdividesthe NationalChampionshipshavetheopportunityto
+country’ssixregionsintotworelativelyequal beselectedtotheU.S.NationalTeamintheLevel
+blocksgeographically,oneintheEastandonein 8and9divisions.
+theWest.Someofthefeaturesofthisdesignarea
+shorternumberofcompetitiondays,amorecost TheMen’sDevelopmentNationalChampionships
+effectivestrategyintermsoftravelandrelated isusedasaqualifyingstepforLevel10athletes
+expensesforathletes,coachesandfamilies,and totheU.S.Championshipslaterintheseason.
+themaximumopportunityandrecognitionfor TheU.S.Championshipsareusedasonecriteria
+thoseparticipants.Asitewillbidannuallytohost forselectiontotheU.S.NationalTeamforLevel10
+theeventinthetwoareasofthecountrythat athletes.
+willfurtherenhancetheexposureofoursport
+countrywide.
+64
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Championship Competitions Formats competitionsatthe optional levels.The detailsof
+Thetablesonthefollowing pagesgivea theseformatsare published annually, priortothe
+general idea ofthe format designforthe startofthechampionshipcompetitionseason
+Men'sDevelopment National Championship and maychange slightlyfrom year-to-year.
+East (Regions 4,5 6) and West (Regions 1, 2 & 3) Men's Development Nationals
+6
+2
+L
+5O
+1
+4
+3
+Basic FormatforEast andWest theStateChampionship.A petition processwill
+beavailableforathleteswhowere notableto
+Men'sDevelopment Nationals
+competeattheirqualifying competitiondue
+Athleteswill qualifyto attend the EastandWest to injuryorillness.Athleteswillcompetein one
+Nationalsthroughtheirrespective regional sessionwithawardstofollowateach level.
+championships using an allotmentsystem, Thenumberofsessionsand athlete numbers
+publishedannually. The qualifyingage groupsfor mayvaryyear-to-year based upon member
+each level and age divisionswill bedetermined registrations ateach levelaswellasassignment
+priortotheState Championshipseachyear ofsessions based upona sampleformat shown
+based on registered numbersand theallotment below. Information onfacilityrequirements
+foreach ofthe EastandWest Development andthebid processwill be included inthe bid
+Nationals. Aqualification documentwill be packetsfortheseevents.
+publishedwithall pertinent information priorto
+— ·
+USAGymnastics-Men'sDevelopmentProgram-JuniorCompetitionManual May2024 65
+
+E. SampleCompetition FormatforEastandWestNationalChampionships: (Subjecttochangeannually)
+SampleFormat East &West Men's Development National Championship
+Note:AdjustmentofnumberofsessionsandlevelsmaybemadeeachyearbytheMDPCbasedonregisterednumbers
+CompetitionSchedule Level Session#'s Approx.#'s Allotment
+FridaySession#1 9JN 96
+6eventAArankbyRegion
+FridaySession#2 9JN 96 288
+Top3 Ind.Event
+FridaySession #3 9JN 96
+SaturdaySession#1 8JN 96 6eventAArankbyRegion
+192
+SaturdaySession #2 8JN 96 Top3 Ind.Event
+SundaySession#1 6JE 48 48 6eventAArankbyRegion
+SundaySession #2 7JN 120 6eventAArankbyRegion
+240
+SundaySession #3 7JN 120 Top3 Ind.Event
+Totals 6JE,JN-7,8,9 768 768 + Petitions Allotment based on Registration
+F. General Parameters- East&WestNationalsBidProcess:
+General Parameters —
+East&West Men's Development Nationals Bids
+Note:Specificrequirements to be statedin contractagreed uponbyUSAGandHost
+3-dayevent Set-uponThursday,Competition Fridayto Sunday, Load outSundayaftercompetition
+Training Notraining priorto sessions (warm-up&compete), Nooff-sitetraining scheduled
+Medical FollowsUSAGymnasticsapproved coverage requirements, medical plan must befiled
+Hotel Hotel packages must be coordinated through USAGymnasticsTravel Partner
+Competition CapitolCupFormat,one session,one levelwith awardstofolloweach session
+Awards Singleageyearcategories in each level + Club/Region Team
+Dates Targetdateforevent is lastweekend of April (subjecttocalendarchanges)
+Equipment Provided byNational EquipmentSponsor (AAI),twosets, hostpayscost (TBDannually)
+Judges 2 perevent-12judges + 1 Technical Director/Meet Referee,paid by host
+Ages All athleteagegroups to be determined byMDPCeachyear based on level's field numbers
+Schedule Publishedeachyearbythe MDPC in coordinationwith meethost
+Facility Recommended minimum:35,000 squarefeet,Ceiling height20 feet, elevated seating
+Travel Athletesand coaches mayarriveand departaccording totheircompetition schedule
+Note:Generalinformationpresentedissubjecttochangeandspelledoutinmoredetailinabidpackageand
+subsequentcontractsbetweenUSAGymnasticsandpotentialmeethosts. Thoseinterested inbiddingshould
+contactUSAGymnasticsformoredetails.
+Basic Format- Men's Development a full training dayforallathletesand a dayoff
+betweenthe preliminarycompetitionsand finals
+NationalChampionships
+competitionsateach level.TheJunior National
+G.Overview: The Men'sDevelopment National Championshipwillbethe site ofJunior National
+Championships is heldfor NationalTrackLevel Team selection inthe EliteTrackfor Level8and
+10's (JN-10) and EliteTrackLevels 8, 9, and 10 (JE-8, Level 9. EliteTrackdivision Level 10'swill qualifyto
+JE-9,JE-10). AgeGroups qualifying through State U.S.Championshipsfrom this competition.The
+and Regional Championshipsto Development NationalTrackcompetition will identify rankings
+Nationalsare defined as Level 8 12& 13,Level9 14& and placementforawards based uponatwo-day
+15,Level 10 16& 17, 18+. Limiting thisformatto these optionalformat. Elite Trackathleteswill compete
+higherlevelsopens upmore spacefor National forselectionand qualification using a combined
+TrackLevel 10'sto reachthe Men'sDevelopment scoreofTechnical SequencesandOptional rou-
+NationalChampionships.Thisformatwillstill allow tinesinatwo-dayformat.
+66 USAGymnastics-Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+H.SampleCompetitionTableforMen’sDevelopmentNationalChampionships
+SampleFormatforDevelopmentNationalChampionship
+Note:AdjustmentofnumberofsessionsandlevelsmaybemadeeachyearbytheMDPCbasedonregisterednumbers
+CompetitionSchedule Level Appr7o0x0 .+#’s Notes
+Thursday–AllRegions JN+JE TrainingDay
+FridaySession1 LLeveevlel81&09JJEE(1(61,2,171,3,181,4,191)5) 120+
+Optionals
+FridaySession2 120+
+RegionalTeamcompetition.
+FridaySession3 Level10JN(16,17,18,19) 72
+AllqualifytoSundaysession3
+SaturdaySession1 Level10JN(16,17,18,19) 132
+IndividualQualifiers.
+SaturdaySession2 Level10JN(16,17,18,19) 132 AA+IEawards
+aftereachsession
+SaturdaySession3 Level10JN(16,17,18,19) 132
+SundaySession1 Level8&9JE 120+ TechnicalSequences
+SundaySession2 Level10JE 120+ OptionalsDay2
+SundaySession3 Level10JN(16,17,18,19) 72 AA+IE-Finals
+I. GeneralinformationaboutAllotmentSystem:Whereanallotmentsystemisusedtoqualifyathletes
+toanationalevent,asystemisinplaceto recommendwhetheraqualifyingscoreshould
+determinetheallotmentnumbersforeach beraisedorlowered.Thepurposeistopopulate
+region.Priortostatechampionshipeventseach theeventwiththedesiredoptimalnumberof
+season,thedatafromathleteregistrationsineach participantsforthatevent.Aqualifyingscoreis
+levelofcompetitionwillbeusedtodetermine sometimesusedwhenitisimportanttocreatea
+relativeallotmentnumbersfromeachregion. poolofathleteswiththehighestlevelofquality
+Apercentageofthetotalnationalnumbersat andabilityregardlessofwhichregioninwhich
+thatlevelisthenassignedtoeachregion.That theyarecompeting.Eachyear,thesenumbers
+percentageisusedtodeterminethenumberof areapprovedbytheMDPCandreleasedtothe
+qualifierseachregionwillreceivetothenational communitypriortothechampionshipseason.
+event.Thissystemisdesignedtoensurethata
+relativelyequaldistributionofqualifierscompared K . AwardsGuidelines:Awardsguidelines
+totheirnationalpercentageisguaranteedfor foreachchampionshiparepublishedinthe
+eachregion.Inherently,regionswithsmaller directivesforeachchampionshipcompetition.
+registeredathletenumbershavefewerqualifying Generallyspeaking,thenationalchampionship
+spotsthanregionswhichhavealargenumber eventswilldistributeawardsbaseduponsingle
+ofathleteregistrants.Eachyear,thesenumbers ageyearstoindividualevents,theAll-Around,
+areapprovedbytheMDPCandreleasedtothe andbyagegroupsdesignatedforeachevent.
+communitypriortothechampionshipseason. AgeGroupsandawardsforteamcompetitions
+ateacheventwillbedeterminedbytheformat
+J. GeneralInformationaboutQualifyingScores: forthatevent.Inaddition,stateandregional
+Wherequalifyingscoresareusedtodetermine championshipeventsmayadjusttheirformat
+entryintonationalevents,suchasintheElite tomeetspace,financialconsiderationsand
+Trackevents,thedatafromrecentpastevents participationguidelinesbaseduponeachstate
+isusedtoreviewtheaccuracyofthequalifying orregionsresources.
+scoresmovingforward.IntheEliteTrack,a
+JuniorCoachesAdvisorygroupisconsultedto
+67
+USAGymnastics–Men’sDevelopmentProgram–JuniorCompetitionManual • May2024
+
+Chapter7
+EQUIPMENT SPECIFICATIONS
+& OFFICIAL DUTIES
+JuniorModifications to Equipment e. Ifceiling mounted ringsareto be used the
+meetdirector mustinform all participants
+Specifications
+priortotheevent (inthe entryprocedures
+Equipmentspecificationsare based uponthose documents)socoaches mayassesswhether
+listed intheFIGCodeofPoints.Inthejunior theirgymnastshould competeon that event.
+program,themaximum height specifications f. Boxesconstructed with spotting blocks or
+approved bythe FIGmay not be exceeded. matsmaybe used inClubcompetition or
+However,depending on the levelofcompetition, compulsorycompetition for lower levels,where
+therearemodifications to equipment appropriate,ifparallel barsare notavailable.
+specificationsthatallowadjustments belowthose TheuseofBoxesor Parallel Bars must be
+maximum heights or substitution ofstandard communicated in pre-meet information.
+equipmentwith modified equipment set up g. Wheremushroomsare used,theymust be
+withoutdeduction.These modificationsarelisted
+tapedtothefloor panel mats onwhichthey
+belowand mayapplytoallcompetitions unless resttoinsurestabilityofthe equipment.
+otherwise stated. h. Additionallanding mats orsafetycushionsare
+generallyallowed onVault.
+A. GeneralguidelinesformodificationstoFIG i. Atumbling strip, minimum width 6 feetand
+equipmentstandards:Inallcases, equipment length of40-60feet, maybe usedfor National
+usedforcompetition must be manufacturedby Trackcompulsorycompetition and ClubTrack
+anapprovedequipmentmanufacturerandfall competition.
+withinapproved safetyguidelines. Meetdirectors j. Inall cases,such ascertain championshiplevel
+andjudgingofficialshavearesponsibilityto competitions, ifFIGequipmentspecifications
+inspectequipmentpriortocompetition to insureit arerequiredthe meetdirectives muststate
+meetsacceptedstandards. those rules.
+a. Apanel mat maybe usedto mount Pommel B. StatementonJudgingandEvaluation
+Horse,Pommel-less Horse, Mushroom, and Procedures:All modifications orexceptionsto
+ParallelBars. the FIGCodeofPoints are listed in this manual
+b. Thereisnominimum height requirementfor andtake precedence in competitions usingjunior
+Parallel Barsor Pommel Horseand Pommel- program rules.Allotherevaluation criteriafollow
+lessHorse. theFIGCodeofPointsand interpretations byFIG
+c. Mattingcan be adjusted upward using ortheNational Gymnastics JudgesAssociation
+approved landing matsand/orsafetycushions directives (NGJA). Junior National Apparatus
+toattain a minimum heightforRingsand Judges underthe direction ofthe NGJA'sJunior
+HorizontalBarforall National compulsory,Club, Technical Directorwill communicateany
+and National optional competition unlessthe necessaryinterpretations to the rulesthat arise
+directivesforequipmentspecifications and/or duringthecompetitive season.
+mattingarespecificallystated.
+d. Aspringboard maybe used tomountthe
+Parallel Barsevent.Ifthe springboard is placed
+betweentheuprights it must be removedafter
+themount (forsafetyreasons).A behavioral
+deductionmaybeassessedforcompromising
+thesafetyofthegymnast.
+68
+USAGymnastics- Men'sDevelopmentProgram—-JuniorCompetitionManual May2024
+
+C. LandingMatsand MatSpecificationsTable:Thistable lists basic minimum requirements. Matsmay
+beadjustedwithin the rulesto ensure safetyoftheathletes.
+Minimum Recommended Landing MatSpecifications
+forMen's DevelopmentCompetition Program
+Notes: 10cm isapproximatelyequal to4 inchesand 20cm isapproximatelyequalto8inches
+Specific matting requirementsmay be statedforsomechampionshipcompetitions
+Meet Directorsshould provide timerswhere necessaryforfloorroutinesat Levels7, 8, 9& 10
+National-Elite Level3 Level4 Level5 Level6 Level7 Levels8,9& 10
+40'x40'
+40'x40' 40'x40'
+1½"foam on4"springdeck
+FloorExercise or6'x40' strip or6'x60'strip
+Additionalmatupto4"allowed
+Minimum 1¼"thick 1½"foam on4"spring deck
+forlandings- maynotbemoved
+PommelHorse NotApplicable 12'x12'x10 cm (4″)
+Mushroom 10'x10'x1¼"(panel mat) NotApplicable
+StillRings 8'x15 'x30cm (4″ + 8″)
+VaultTableor 6'x12'x30 cm (4″+8″) 8'x15 'x30 cm (4" + 8″)
+BoardtoMats Additional20cm (+8″) allowed (RefertoTechnical Sequence Manualfor required JE matting)
+Raised
+14'x16'x20cm (8″)
+ParallelBars surfacefor
+Extension mats needed atend of bars
+mounting
+MatsorBlocks Allowed Notapplicable
+HorizontalBar Lowbar Barw/matsraisedtoallowanyheight 8'x30'x30cm (4" + 8″)
+Club Bronze Silver Gold Platinum
+40'x40'or6'x40'strip 40'x40' or6'x60' strip
+FloorExercise
+Minimum 1¼"thick 1½"foam on 4"spring deck
+PommelHorse Mushroom - 10'x10'x1¼"(panel mat) 12'x12'x10cm (4″)
+StillRings 8'x15 'x30 cm (4″ + 8″)
+Twopanelmatsto 6'x12'x30 cm (4″ + 8″) 8'x15½ x30cm
+Vault
+6'x12'x20cm (8″) Additional 20 cm (+8″) allowed (4″ + 8″)
+ParallelBars MatsorSpotting BlocksAny Height 14'x16'x20cm (8″)
+HorizontalBar 8' x 30' x 30cm
+Low barorbarwith mats raisedtoallowanyheight
+(4"+8")
+General Duties ofOfficials
+•
+D. Officials Duties:Unless otherwise specified, Judgesareresponsiblefor both Difficulty&
+judges aswell as meetdirectorsare responsibleto Executionscoring unless otherwisespecified
+•
+ensurethefollowing conditionsofthe competition Applicable rulesforeach levelofcompetition
+arefollowed
+arefollowedand provide a safe environmentfor
+thecompeting athletes: Judgesare responsiblefor lineduties unless
+linejudgesare provided
+Equipment provided meetsapproved specifications •
+• Judgesare responsiblefor determiningif
+Landing areasare providedwith adequate
+anathlete mayrepeatan exercisewithin
+mattingwithinapproved guidelines
+applicablerules
+Spottersare present priorto an athlete'scom-
+petitionwhere required at Rings,Vault, and
+Horizontal Bar
+USAGymnastics–Men'sDevelopmentProgram–JuniorCompetitionManual • May2024 69
+
+USA TM
+Gymnastics
+
